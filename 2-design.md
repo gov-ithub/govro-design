@@ -62,12 +62,15 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 Raportul de contrast de culoare pentru text și elemente interactive trebuie să fie de cel puțin 4,5:1 așa cum este [recomandat de W3C](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html){:target="_blank"}.
 
 ### Paleta de culori
+
 #### Culorile principale
+
 - Pantone 480C; RGB(0,73,144); CMYK(100,72,0,18)
 - Negru 80%; RGB(88,89,91); CMYK(0,0,0,80)
 - Negru 100%; RGB(0,0,0); CMYK(0,0,0,100)
 
 #### Culorile secundare
+
 - Pantone 300C; RGB(0,121,193); CMYK(100,44,0,0)
 - Negru 20%; RGB(209,211,212); CMYK(0,0,0,20)
 - Negru 100%; RGB(255,255,255); CMYK(0,0,0,0)
