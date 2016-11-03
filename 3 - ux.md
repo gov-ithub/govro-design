@@ -63,6 +63,6 @@ Arhitectura Informației are 5 mari ramuri [4]:
 
 1. [User Experience Design, Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 2. [Information Architecture, Wikipedia](https://en.wikipedia.org/wiki/Information_architecture)
-3. [What is Information Architcture?](http://www.iainstitute.org/what-is-ia)
-4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
+3. [What is Information Architecture, IA Institute](http://www.iainstitute.org/what-is-ia)
+4. [Information Architecture: For the Web and Beyond, carte](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
 
