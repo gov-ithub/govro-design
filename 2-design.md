@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Proiectare
+title: Principii de UI
 permalink: /proiectare/
 ---
+
+Notă: UI înseamnă "User Interface" și este același lucru cu termenul "visual design". Etapa de UI din cadrul unui proiect web se referă la transformarea wireframe-urilor sau prototipului (construit în etape de UX) într-o interfață care să fie atractivă din punct de vedere vizual pentru utilizatori. Această etapă va crea înfățișarea finală a paginilor și a aplicației în sine.
 
 Acest ghid arată cum să proiectezi un serviciu astfel încât să fie coerent cu restul serviciilor gov.ro.
 
