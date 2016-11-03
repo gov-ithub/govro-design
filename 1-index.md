@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Principii
+title: Principii generale
 permalink: /
 ---
 
