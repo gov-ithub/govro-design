@@ -8,7 +8,7 @@ permalink: /ux/
 **UX ("User Experience")** este **prima etapă** din dezvoltarea oricărui proiect web. Scopul ei este de a construi 
 un prototip (pentru o aplicație/website) care să reflecte atât nevoile utilizatorilor finali, cât și cerințele clientului.
 
-**User Experience Designer-ul** este dator să strângă (prin _UX Research_) atât date despre nevoile și profilul utilizatorilor finali ai unei aplicații web,
+**User Experience Designer-ul** este dator să strângă (prin [UX Research](https://www.usability.gov/what-and-why/user-research.html)) atât date despre nevoile și profilul utilizatorilor finali ai unei aplicații web,
 cât și cerințele clientului (informații de ordin tehnic, legal sau business, care vor defini mulțimea posibilă de funcționalități dintr-o aplicație).
 
 Acei **User Experience Designeri care sar peste etapa de _UX Research_ și trec direct la proiectarea interfeței** încalcă una din regulile de bază ale domeniul "UX",
@@ -33,14 +33,14 @@ O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele
 2. Ce pot face pe această pagină? (acțiuni posibile)
 3. Unde pot să ajung pornind de la această pagină?
 
-Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **Arhitectura Informației** (IA - Information Architecture) pentru aplicația web.
+Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **Arhitectura Informației** (IA - _Information Architecture_) pentru aplicația web.
 
 ## 1. Arhitectura Informației (IA)
-Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura 
+Este arta și știința de a organiza _informația online_ (pe un website, un intranet, o comunitate online, un produs software) sau _informația offline_ (de pe teren), cu scopul de a asigura 
 partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
 
-O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească ceea ce căutau, fie că este vorba de lumea reală 
-(orientarea într-un supermarket sau într-o gară) sau de lumea online. [3]
+O **_arhitectură a informației_ bine definită** ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de lumea reală 
+(orientarea într-un supermarket, aeroport, spital etc) sau de lumea online. [3]
 
 Arhitectura Informației are 5 mari ramuri [4]:
 * Sisteme organizaționale
@@ -63,6 +63,6 @@ Arhitectura Informației are 5 mari ramuri [4]:
 
 1. [User Experience Design, Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 2. [Information Architecture, Wikipedia](https://en.wikipedia.org/wiki/Information_architecture)
-3. [What is Information Architcture?](http://www.iainstitute.org/what-is-ia)
-4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
+3. [What is Information Architecture, IA Institute](http://www.iainstitute.org/what-is-ia)
+4. [Information Architecture: For the Web and Beyond, carte](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
 
