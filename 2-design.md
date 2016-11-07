@@ -1,12 +1,23 @@
 ---
 layout: page
-title: Proiectare
+title: Principii de UI
 permalink: /proiectare/
 ---
 
-Acest ghid arată cum să proiectezi un serviciu astfel încât să fie coerent cu restul serviciilor gov.ro.
+## Ce este _UI_
+"UI" ("User Interface") este același lucru cu termenul "visual design", _în contextul dezvoltării web a unui proiect_. Etapa de "UI" din cadrul unui proiect web se referă la transformarea wireframe-urilor sau prototipului (construite în etapa anterioară de "UX") într-o interfață care să fie atractivă din punct de vedere vizual pentru utilizatori (fonturi, culori, forme, imagini etc). Această etapă va crea înfățișarea finală a paginilor și a aplicației în sine.
 
-## Așezarea în pagină
+**Multă lume confundă UI-ul cu UX-ul**. "UX" (User Experience) este etapa care proiectează o interfață "usable", este "sistemul osos" al oricărui proiect web. "UI" este etapa care îmbracă "sistemul osos" cu "mușchi și piele", astfel încât acesta să arate atractiv și convingător.
+
+**A trece la partea de "culoare" (UI) fără a avea definită în prealabil partea de "structură" (UX)** înseamnă să încalci una din regulile de bază ale _User Experience Design-ului_, care spune că [_Forma urmează funcției_](https://en.wikipedia.org/wiki/Form_follows_function).
+
+**Visual designer-ul nu este un simplu utilizator de Photoshop** (sau Sketch, Illustrator etc). El este capabil atât _să creeze interfețe frumoase_, cât și _să explice concepte de design și să argumenteze deciziile din spatele muncii sale_. [1]
+
+**Visual designer-ul este mai mult decât un _graphic designer_** (care se ocupă de tipografie, culoare, imagini, utilizarea spațiului, iconițe), el este un om capabil să **asigure o experiență vizuală consecventă pe toate tipurile de ecrane** necesare unei aplicații (desktop, tablete, _smartphones_). [1]
+
+Această pagină descrie principiile de bază ale _visual design-ului_.
+
+## 1. Așezarea în pagină
 Folosește spațiul liber pentru a crea o ierarhie vizuală în pagină.
 
 ### Lățimea paginii
@@ -29,7 +40,7 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 - separă pagina în coloane în funcție de conținut
 - folosește ca proporții jumătăți, treimi sau sferturi din lățimea paginii
 
-## Tipografia
+## 2. Tipografia
 
 ### Fontul
 - folosește fontul **Trebuchet MS** cu caractere normale, cursive și aldine pentru domeniile .gov.ro
@@ -56,7 +67,7 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 ### Extrasele
 - folosește o margine pentru a atrage atenția asupra conținutului important din pagină
 
-## Culorile
+## 3. Culorile
 
 ### Contrastul de culoare
 Raportul de contrast de culoare pentru text și elemente interactive trebuie să fie de cel puțin 4,5:1 așa cum este [recomandat de W3C](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html){:target="_blank"}.
@@ -78,7 +89,7 @@ Raportul de contrast de culoare pentru text și elemente interactive trebuie să
 #### Culorile componentelor
 [text, legături, fundal, butoane, focus, nuanțe de gri]
 
-## Pictograme și imagini
+## 4. Pictograme și imagini
 Evita decorarea inutilă - folosește doar pictograme și imagini dacă este o nevoie reală pentru utilizator.
 
 ### Pictogramele
@@ -88,7 +99,7 @@ Evita decorarea inutilă - folosește doar pictograme și imagini dacă este o n
 ### Imaginile
 - în cazul în care sunt necesare imagini acestea trebuie să aibă raport 3:2
 
-## Datele
+## 5. Datele
 Folosește tabele pentru a face conținutul mai ușor de parcurs.
 
 ### Datele numerice tabelare
@@ -98,7 +109,7 @@ Folosește tabele pentru a face conținutul mai ușor de parcurs.
 - datele vizualizate sunt recomandate ca alternativă la utilizarea imaginilor
 - asigură-te că valoarea numerică apare înaintea descrierii pentru a fi ușor de citit
 
-## Butoanele
+## 6. Butoanele
 - folosește butoanele pentru navigarea în site și afișează un singur buton principal pe pagină.
 
 ### Textul butonului
@@ -112,7 +123,7 @@ Folosește tabele pentru a face conținutul mai ușor de parcurs.
 - dacă trebuie să dezactivezi un buton, asigura-te că arată că nu poate fi selectat (opacitate 50%)
 - daca butonul principal este dezactivat, furnizează un alt mod prin care utilizatorul poate să continue sau adaugă un mesaj de eroare și un text pentru a explica de ce butonul este dezactivat
 
-## Formularele
+## 7. Formularele
 Păstrează formularele cât mai simple - cere doar informațiile necesare.
 
 ### Câmpurile opționale și obligatorii
@@ -140,7 +151,7 @@ Păstrează formularele cât mai simple - cere doar informațiile necesare.
 ### Spațierea între elemente
 - asigură-te că există suficient spațiu între elementele unui formular
 
-## Erorile și validarea
+## 8. Erorile și validarea
 - încearcă să reduci numărul de erori dintr-o pagină
 - validează și evidențiază erorile și alte mesaje
 - grupează erorile în partea de sus a paginii
@@ -153,7 +164,7 @@ Pentru fiecare eroare:
 - pune mesajul de eroare în etichetă, după textul respectiv, cu roșu
 - folosește un chenar roșu pentru câmp pentru a-l conecta vizual cu eroarea
 
-## Antetul și subsolul
+## 9. Antetul și subsolul
 Când și cum se utilizează antetul gov.ro, subsolul și logo-ul.
 
 ### Când se utilizează antetul și subsolul gov.ro
@@ -163,3 +174,8 @@ Dacă serviciul este disponibil la www.gov.ro sau la o adresa de forma serviciu.
 
 ### Implementarea antetului și subsolului gov.ro
 Codul și resursele pentru a implementa antetul și subsol gov.ro sunt disponibile în pagina de [componente](/componente).
+
+
+## Bibliografie
+
+1. [What is visual design](https://skillcrush.com/2016/05/31/what-is-visual-design/)
