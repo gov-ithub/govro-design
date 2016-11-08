@@ -85,6 +85,27 @@ Reprezintă modul în care putem naviga într-un website (aplicație):
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 ### 1.4 Sisteme de căutare
+Reprezintă modul în care căutăm informația pe un website (aplicație).
+
+Este recomandat să oferi o funcție de _căutare în website_ dacă:
+* website-ul conține foarte multe pagini (de ordinul zecilor)
+* poți (și ai resursele necesare) să optimizezi sistemul de căutare în website (adăugarea de filtre pentru căutare avansată, afișarea rezultatelor căutării în funcție de relevanță/alte criterii, afișarea de sugestii pentru căutările care nu au generat niciun rezultat, indexarea rezultatelor de căutare pentru anumiți etc)
+* website-ul este foarte fragmentat (de exemplu Amazon.com, Wikipedia.com)
+* căutarea este un mod de a învăța nevoile utilizatorilor de pe website (vezi analiza _search log-urilor_ din paragraful anterior)
+* utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului 
+* utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
+
+**Pentru a proiecta o interfață de căutare bună, este necesar să:**
+* iei în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
+* iei în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
+* iei în calcul tipul de informație căutat (căutare de pagini, căutare pe texte, căutare pe anumite formate etc)
+* iei în calcul cantitatea de informație căutată (câte rezultate de căutare să afișăm și în ce ordine, cum filtrăm rezultatele căutării pentru a restrânge căutarea la ceva mai specific etc).
+* afișezi în pagina de _rezultate pentru căutare_ care au fost cuvintele care au definit căutarea (_search query_)
+* explici de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
+* explici utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
+* integrezi căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
+* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea [paginii 404]:(https://en.wikipedia.org/wiki/HTTP_404) pentru căutarea unor pagini care nu există pe website). [4]
+
 
 ### 1.5 Tezaure, vocabulare controlate, metadata
 
