@@ -58,9 +58,23 @@ Reprezintă modul în care organizăm informația pe un website:
 * după auditoriu (tipuri de utilizatori)
 * după formatul informației (audio, video, documente text etc)
 * după clasificări sociale (generate de utilizatori): de exemplu, _free tag-urile_ de pe Flickr
-* o combinație între două sau mai multe moduri de mai sus.
+* o combinație între două sau mai multe moduri de mai sus. [4]
 
 ### 1.2 Sisteme de etichetare (_labels_)
+Reprezintă modul în care reprezentăm informația:
+* link-uri contextuale (_hyperlinks_)
+* titluri de paragrafe (_headings_)
+* opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
+* termeni de index (_keywords_, _tags_ etc)
+* iconițe (etichete vizuale).
+
+Cum putem crea etichete eficiente?
+* analizând conținutul website-ului
+* cerând autorilor de conținut de pe website să propună etichete
+* cerând sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
+* folosind exerciții de _[card sorting](https://en.wikipedia.org/wiki/Card_sorting)_
+* analizând _search log-urile_ de pe website (din aplicație)
+* analizând _tag-urile_ generate de utilizatori. [4]
 
 ### 1.3 Sisteme de navigare
 
