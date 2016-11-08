@@ -104,7 +104,8 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * explici de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
 * explici utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
 * integrezi căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
-* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea [paginii 404]:(https://en.wikipedia.org/wiki/HTTP_404) pentru căutarea unor pagini care nu există pe website). [4]
+* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea 
+[paginii 404](https://en.wikipedia.org/wiki/HTTP_404) pentru paginile căutate care nu există pe website). [4]
 
 
 ### 1.5 Tezaure, vocabulare controlate, metadata
