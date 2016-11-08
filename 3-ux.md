@@ -84,6 +84,12 @@ Reprezintă modul în care putem naviga într-un website (aplicație):
 * navigări suplimentare: _site map-uri_, indecși de website, tutoriale pentru o activitate anume de pe website etc
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
+Navigarea globală poate fi:
+* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com) 
+* _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul Amazon.com).
+
+Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
+
 ### 1.4 Sisteme de căutare
 Reprezintă modul în care căutăm informația pe un website (aplicație).
 
