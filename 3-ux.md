@@ -34,7 +34,7 @@ O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele
 2. Ce pot face pe această pagină? (acțiuni posibile)
 3. Unde pot să ajung pornind de la această pagină?
 
-Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **arhitectura informației** (_Information Architecture - IA_) pentru aplicația web.
+Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **arhitectura informației** (_Information Architecture - IA_) pentru acel website (aplicație).
 
 ## 1. Arhitectura Informației (IA)
 Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
@@ -77,6 +77,12 @@ Cum putem crea etichete eficiente?
 * analizând _tag-urile_ generate de utilizatori. [4]
 
 ### 1.3 Sisteme de navigare
+Reprezintă modul în care putem naviga într-un website (aplicație):
+* navigare globală (meniu global): unde mă aflu în cadrul website-ului
+* navigare locală: ce conținut pot găsi în vecinătatea paginii curente?
+* navigare contextuală: ce conținut pot citi mai departe, pornind de la pagina curentă?
+* navigări suplimentare: _site map-uri_, indecși de website, tutoriale pentru o activitate anume de pe website etc
+* navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 ### 1.4 Sisteme de căutare
 
