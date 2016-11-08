@@ -49,6 +49,16 @@ Arhitectura Informației are 5 mari componente [4]:
 * Tezaure, vocabulare controlate, metadata
 
 ### 1.1 Sisteme organizaționale
+Reprezintă modul în care organizăm informația pe un website:
+* alfabetic
+* cronologic
+* geografic
+* după subiect (_topic_)
+* după activitate (_task_)
+* după auditoriu (tipuri de utilizatori)
+* după formatul informației (audio, video, documente text etc)
+* după clasificări sociale (generate de utilizatori): de exemplu, _free tag-urile_ de pe Flickr
+* o combinație între două sau mai multe moduri de mai sus.
 
 ### 1.2 Sisteme de etichetare (_labels_)
 
