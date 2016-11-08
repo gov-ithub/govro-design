@@ -14,17 +14,18 @@ cât și cerințele clientului (informații de ordin tehnic, legal sau business,
 Acei **User Experience Designeri care sar peste etapa de _UX Research_ și trec direct la proiectarea interfeței** încalcă una din regulile de bază ale domeniul "UX",
 care spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users).
 
-**User Experience Designer-ul** va folosi aceste date strânse și **experiența sa profesională (cunoștințe de Arhitectura Informației, 
-psihologie, _interaction design_, ergonomie, _human-computer interaction_ etc)** pentru a crea interfețe "usable" 
+**User Experience Designer-ul** va folosi aceste date strânse și _experiența sa profesională (cunoștințe de arhitectura informației, 
+psihologie, interaction design, ergonomie, human-computer interaction etc)_ pentru a crea interfețe "usable" 
 (ușor de folosit, intuitive, care să servească scopurilor utilizatorilor finali în timpi rezonabili) [1].
 
 **User Experience Designer-ul** va testa pe utilizatori reali dacă prototipul construit de el reprezintă într-adevăr o interfață "usable", 
 și va integra feedback-ul strâns de la acei utilizatori în noua versiune de prototip.
 
-**După ce etapa de "UX" este încheiată, proiectul web poate trece în următoarea fază de dezvoltare: _visual design_ (UI)**, în care prototipul 
-capătă forma vizuală finală ce va defini acel proiect (fonturi, culori, forme, imagini etc).
+**După ce etapa de "UX" este încheiată, proiectul web poate trece în următoarea fază de dezvoltare: _visual design_ (UI)**, în care prototipul capătă forma vizuală finală ce va defini acel proiect (fonturi, culori, forme, imagini etc).
 
-Această pagină prezintă principiile după care să te ghidezi pentru a proiecta o pagină "usable".
+Deoarece **User Experience Design-ul include elemente din mai multe discipline (arhitectura informației, _interaction design_, _user research_, psihologie etc)**, este imposibil să acoperi toate principiile într-un singur ghid.
+
+Această pagină trece în revistă doar cele mai importante principii de UX, după care să te ghidezi pentru a proiecta o pagină "usable".
 
 ## Cum definim o pagină "usable"?
 O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele 3 întrebări:
@@ -33,16 +34,14 @@ O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele
 2. Ce pot face pe această pagină? (acțiuni posibile)
 3. Unde pot să ajung pornind de la această pagină?
 
-Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **Arhitectura Informației** (IA - Information Architecture) pentru aplicația web.
+Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **arhitectura informației** (_Information Architecture - IA_) pentru aplicația web.
 
 ## 1. Arhitectura Informației (IA)
-Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura 
-partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
+Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
 
-O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească ceea ce căutau, fie că este vorba de lumea reală 
-(orientarea într-un supermarket sau într-o gară) sau de lumea online. [3]
+O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de lumea reală (orientarea într-un supermarket sau într-o gară) sau de lumea online (un website, o aplicație software). [3]
 
-Arhitectura Informației are 5 mari ramuri [4]:
+Arhitectura Informației are 5 mari componente [4]:
 * Sisteme organizaționale
 * Sisteme de etichetare (_labels_)
 * Sisteme de navigare
