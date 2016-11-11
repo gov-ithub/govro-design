@@ -5,25 +5,12 @@ permalink: /ux/
 ---
 
 ## Ce este _User Experience_
-<<<<<<< HEAD
-**UX ("User Experience")** este **prima etapă** din dezvoltarea oricărui proiect web. Scopul ei este de a construi
-un prototip (pentru o aplicație/website) care să reflecte atât nevoile utilizatorilor finali, cât și cerințele clientului.
-=======
 _**User Experience (UX)** reprezintă totalitatea emoțiilor, crezurilor, preferințelor, percepțiilor, răspunsurilor fizice și psihologice, precum și comportamentele și realizările utilizatorului, generate în timpul folosirii și după folosirea unui produs sau serviciu web._
->>>>>>> fec0b332ce2a6aa85b056a4e0e815da5977a926d
 
 _User Experience Design-ul_ (UXD) îmbunătățește experiența utilizatorului vizavi de acel produs sau serviciu web. O bună experiență a utilizatorului va crește automat gradul de adopție al acelui produs sau serviciu web.
 
 _User Experience Designer-ul_ este acea persoană care înțelege scopurile și contextul de folosire al potențialilor utilizatori ai unui produs sau serviciu web. El folosește această înțelegere pentru a proiecta un produs sau serviciu web în limita constrângerilor tehnice, legale sau de business specifice acelui produs sau serviciu web.
 
-<<<<<<< HEAD
-**User Experience Designer-ul** va folosi aceste date strânse și _experiența sa profesională (cunoștințe de arhitectura informației,
-psihologie, interaction design, ergonomie, human-computer interaction etc)_ pentru a crea interfețe "usable"
-(ușor de folosit, intuitive, care să servească scopurilor utilizatorilor finali în timpi rezonabili) [1].
-
-**User Experience Designer-ul** va testa pe utilizatori reali dacă prototipul construit de el reprezintă într-adevăr o interfață "usable",
-și va integra feedback-ul strâns de la acei utilizatori în noua versiune de prototip.
-=======
 Un _User Experience Designer_ folosește următoarele metode și discipline:
 * _user (experience) research_
 * _product design_
@@ -36,7 +23,6 @@ Un _User Experience Designer_ folosește următoarele metode și discipline:
 * psihologie
 
 **Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _UX research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
->>>>>>> fec0b332ce2a6aa85b056a4e0e815da5977a926d
 
 _User Experience Designer-ul_ este dator să testeze pe utilizatori reali dacă produsul sau serviciul web proiectat de el este ușor de folosit și intuitiv pentru utilizatori. Acest lucru se face prin teste cu utilizatorii, folosind metode:
 * cantitative: _task success rate_, _time on task_, _error rate_, proporția de folosire a navigării versus căutării pe website etc
@@ -104,7 +90,7 @@ Reprezintă modul în care putem naviga într-un website (aplicație):
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 Navigarea globală poate fi:
-* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com)
+* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com) 
 * _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul Amazon.com).
 
 Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
@@ -117,7 +103,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * poți (și ai resursele necesare) să optimizezi sistemul de căutare în website (adăugarea de filtre pentru căutare avansată, afișarea rezultatelor căutării în funcție de relevanță/alte criterii, afișarea de sugestii pentru căutările care nu au generat niciun rezultat, indexarea rezultatelor de căutare pentru anumiți etc)
 * website-ul este foarte fragmentat (de exemplu Amazon.com, Wikipedia.com)
 * căutarea este un mod de a învăța nevoile utilizatorilor de pe website (vezi analiza _search log-urilor_ din paragraful anterior)
-* utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului
+* utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului 
 * utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
 
 **Pentru a proiecta o interfață de căutare bună, este necesar să:**
@@ -129,7 +115,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * explici de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
 * explici utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
 * integrezi căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
-* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea
+* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea 
 [paginii 404](https://en.wikipedia.org/wiki/HTTP_404) pentru paginile căutate care nu există pe website). [4]
 
 
