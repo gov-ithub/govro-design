@@ -12,6 +12,7 @@ _User Experience Design-ul_ (UXD) îmbunătățește experiența utilizatorului 
 _User Experience Designer-ul_ este acea persoană care înțelege scopurile și contextul de folosire al potențialilor utilizatori ai unui produs sau serviciu web. El folosește această înțelegere pentru a proiecta un produs sau serviciu web în limita constrângerilor tehnice, legale sau de business specifice acelui produs sau serviciu web.
 
 Un _User Experience Designer_ folosește următoarele metode și discipline:
+
 * _user (experience) research_
 * _product design_
 * _interaction design_
@@ -25,6 +26,7 @@ Un _User Experience Designer_ folosește următoarele metode și discipline:
 **Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _UX research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
 
 _User Experience Designer-ul_ este dator să testeze pe utilizatori reali dacă produsul sau serviciul web proiectat de el este ușor de folosit și intuitiv pentru utilizatori. Acest lucru se face prin teste cu utilizatorii, folosind metode:
+
 * cantitative: _task success rate_, _time on task_, _error rate_, proporția de folosire a navigării versus căutării pe website etc
 * calitative: măsurarea nivelului de satisfacție a utilizatorilor, așteptările și performanțele raportate etc
 
@@ -47,6 +49,7 @@ Este arta și știința de a organiza informația pe un website, un intranet, o 
 O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de lumea reală (orientarea într-un supermarket sau într-o gară) sau de lumea online (un website, o aplicație software). [3]
 
 Arhitectura Informației are 5 mari componente [4]:
+
 * Sisteme organizaționale
 * Sisteme de etichetare (_labels_)
 * Sisteme de navigare
@@ -55,6 +58,7 @@ Arhitectura Informației are 5 mari componente [4]:
 
 ### 1.1 Sisteme organizaționale
 Reprezintă modul în care organizăm informația pe un website:
+
 * alfabetic
 * cronologic
 * geografic
@@ -67,6 +71,7 @@ Reprezintă modul în care organizăm informația pe un website:
 
 ### 1.2 Sisteme de etichetare (_labels_)
 Reprezintă modul în care reprezentăm informația:
+
 * link-uri contextuale (_hyperlinks_)
 * titluri de paragrafe (_headings_)
 * opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
@@ -74,6 +79,7 @@ Reprezintă modul în care reprezentăm informația:
 * iconițe (etichete vizuale).
 
 Cum putem crea etichete eficiente?
+
 * analizând conținutul website-ului
 * cerând autorilor de conținut de pe website să propună etichete
 * cerând sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
@@ -83,6 +89,7 @@ Cum putem crea etichete eficiente?
 
 ### 1.3 Sisteme de navigare
 Reprezintă modul în care putem naviga într-un website (aplicație):
+
 * navigare globală (meniu global): unde mă aflu în cadrul website-ului
 * navigare locală: ce conținut pot găsi în vecinătatea paginii curente?
 * navigare contextuală: ce conținut pot citi mai departe, pornind de la pagina curentă?
@@ -90,6 +97,7 @@ Reprezintă modul în care putem naviga într-un website (aplicație):
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 Navigarea globală poate fi:
+
 * _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com) 
 * _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul Amazon.com).
 
@@ -99,6 +107,7 @@ Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www
 Reprezintă modul în care căutăm informația pe un website (aplicație).
 
 Este recomandat să oferi o funcție de _căutare în website_ dacă:
+
 * website-ul conține foarte multe pagini (de ordinul zecilor)
 * poți (și ai resursele necesare) să optimizezi sistemul de căutare în website (adăugarea de filtre pentru căutare avansată, afișarea rezultatelor căutării în funcție de relevanță/alte criterii, afișarea de sugestii pentru căutările care nu au generat niciun rezultat, indexarea rezultatelor de căutare pentru anumiți etc)
 * website-ul este foarte fragmentat (de exemplu Amazon.com, Wikipedia.com)
@@ -107,6 +116,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
 
 **Pentru a proiecta o interfață de căutare bună, este necesar să:**
+
 * iei în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
 * iei în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
 * iei în calcul tipul de informație căutat (căutare de pagini, căutare pe texte, căutare pe anumite formate etc)
