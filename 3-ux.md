@@ -5,27 +5,46 @@ permalink: /ux/
 ---
 
 ## Ce este _User Experience_
+<<<<<<< HEAD
 **UX ("User Experience")** este **prima etapă** din dezvoltarea oricărui proiect web. Scopul ei este de a construi
 un prototip (pentru o aplicație/website) care să reflecte atât nevoile utilizatorilor finali, cât și cerințele clientului.
+=======
+_**User Experience (UX)** reprezintă totalitatea emoțiilor, crezurilor, preferințelor, percepțiilor, răspunsurilor fizice și psihologice, precum și comportamentele și realizările utilizatorului, generate în timpul folosirii și după folosirea unui produs sau serviciu web._
+>>>>>>> fec0b332ce2a6aa85b056a4e0e815da5977a926d
 
-**User Experience Designer-ul** este dator să strângă (prin _UX Research_) atât date despre nevoile și profilul utilizatorilor finali ai unei aplicații web,
-cât și cerințele clientului (informații de ordin tehnic, legal sau business, care vor defini mulțimea posibilă de funcționalități dintr-o aplicație).
+_User Experience Design-ul_ (UXD) îmbunătățește experiența utilizatorului vizavi de acel produs sau serviciu web. O bună experiență a utilizatorului va crește automat gradul de adopție al acelui produs sau serviciu web.
 
-Acei **User Experience Designeri care sar peste etapa de _UX Research_ și trec direct la proiectarea interfeței** încalcă una din regulile de bază ale domeniul "UX",
-care spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users).
+_User Experience Designer-ul_ este acea persoană care înțelege scopurile și contextul de folosire al potențialilor utilizatori ai unui produs sau serviciu web. El folosește această înțelegere pentru a proiecta un produs sau serviciu web în limita constrângerilor tehnice, legale sau de business specifice acelui produs sau serviciu web.
 
+<<<<<<< HEAD
 **User Experience Designer-ul** va folosi aceste date strânse și _experiența sa profesională (cunoștințe de arhitectura informației,
 psihologie, interaction design, ergonomie, human-computer interaction etc)_ pentru a crea interfețe "usable"
 (ușor de folosit, intuitive, care să servească scopurilor utilizatorilor finali în timpi rezonabili) [1].
 
 **User Experience Designer-ul** va testa pe utilizatori reali dacă prototipul construit de el reprezintă într-adevăr o interfață "usable",
 și va integra feedback-ul strâns de la acei utilizatori în noua versiune de prototip.
+=======
+Un _User Experience Designer_ folosește următoarele metode și discipline:
+* _user (experience) research_
+* _product design_
+* _interaction design_
+* arhitectura informației (_information architecture_)
+* _usability_
+* _prototyping_
+* _interface design_
+* _content strategy_
+* psihologie
 
-**După ce etapa de "UX" este încheiată, proiectul web poate trece în următoarea fază de dezvoltare: _visual design_ (UI)**, în care prototipul capătă forma vizuală finală ce va defini acel proiect (fonturi, culori, forme, imagini etc).
+**Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _UX research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
+>>>>>>> fec0b332ce2a6aa85b056a4e0e815da5977a926d
 
-Deoarece **User Experience Design-ul include elemente din mai multe discipline (arhitectura informației, _interaction design_, _user research_, psihologie etc)**, este imposibil să acoperi toate principiile într-un singur ghid.
+_User Experience Designer-ul_ este dator să testeze pe utilizatori reali dacă produsul sau serviciul web proiectat de el este ușor de folosit și intuitiv pentru utilizatori. Acest lucru se face prin teste cu utilizatorii, folosind metode:
+* cantitative: _task success rate_, _time on task_, _error rate_, proporția de folosire a navigării versus căutării pe website etc
+* calitative: măsurarea nivelului de satisfacție a utilizatorilor, așteptările și performanțele raportate etc
 
-Această pagină trece în revistă doar cele mai importante principii de UX, după care să te ghidezi pentru a proiecta o pagină "usable".
+_User Experience Designer-ul_ este dator să livreze (în primul rând, dar nu numai) un prototip al produsului sau serviciului web. Odată prototipul validat de client (beneficiarul indirect al proiectului) și testat pe utilizatori, proiectul poate trece în următoarea fază de dezvoltare: _visual design_, în care prototipul capătă forma vizuală finală ce va defini acel proiect (_branding_, fonturi, culori, forme, imagini etc).
+
+Această pagină trece în revistă doar cele mai importante principii de UXD.
 
 ## Cum definim o pagină "usable"?
 O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele 3 întrebări:
