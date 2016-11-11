@@ -13,15 +13,15 @@ _User Experience Designer-ul_ este acea persoană care înțelege scopurile și 
 
 Un _User Experience Designer_ folosește următoarele metode și discipline:
 
-* _user (experience) research_
-* _product design_
-* _interaction design_
-* arhitectura informației (_information architecture_)
-* _usability_
-* _prototyping_
-* _interface design_
-* _content strategy_
-* psihologie
+- _user (experience) research_
+- _product design_
+- _interaction design_
+- arhitectura informației (_information architecture_)
+- _usability_
+- _prototyping_
+- _interface design_
+- _content strategy_
+- psihologie
 
 **Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _UX research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
 
