@@ -98,7 +98,7 @@ Reprezintă modul în care putem naviga într-un website (aplicație):
 
 Navigarea globală poate fi:
 
-* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com) 
+* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com)
 * _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul Amazon.com).
 
 Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
@@ -112,7 +112,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * poți (și ai resursele necesare) să optimizezi sistemul de căutare în website (adăugarea de filtre pentru căutare avansată, afișarea rezultatelor căutării în funcție de relevanță/alte criterii, afișarea de sugestii pentru căutările care nu au generat niciun rezultat, indexarea rezultatelor de căutare pentru anumiți etc)
 * website-ul este foarte fragmentat (de exemplu Amazon.com, Wikipedia.com)
 * căutarea este un mod de a învăța nevoile utilizatorilor de pe website (vezi analiza _search log-urilor_ din paragraful anterior)
-* utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului 
+* utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului
 * utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
 
 **Pentru a proiecta o interfață de căutare bună, este necesar să:**
@@ -125,7 +125,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * explici de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
 * explici utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
 * integrezi căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
-* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea 
+* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea
 [paginii 404](https://en.wikipedia.org/wiki/HTTP_404) pentru paginile căutate care nu există pe website). [4]
 
 

@@ -65,9 +65,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.15;
   margin-top: 30px; }
 
-.site-header {
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; }
-
 /**
  * Links
  */
@@ -170,7 +167,8 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 .site-header {
   background: #111;
   min-height: 56px;
-  position: relative; }
+	width: 100%;
+  position: fixed; }
 
 .site-title {
   font-size: 26px;
@@ -280,7 +278,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 55px 0; }
 
 .page-heading {
   font-size: 20px; }
