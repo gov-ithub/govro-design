@@ -22,10 +22,10 @@ Centrează conținutul paginii cu un container.
 Grila este una standard prin care adaugi rânduri cu coloane, fiecare coloană având o clasă care stabilește raportul de lățime al acesteia.
 
 <div class="example example-guide">
-	<div class="row">
-	  <div class="col-md-8"><span>coloană două treimi</span></div>
-	  <div class="col-md-4"><span>coloană o treime</span></div>
-	</div>
+  <div class="row">
+    <div class="col-md-8"><span>coloană două treimi</span></div>
+    <div class="col-md-4"><span>coloană o treime</span></div>
+  </div>
 </div>
 ``` html
 <div class="row-fluid">
@@ -38,12 +38,12 @@ Grila este una standard prin care adaugi rânduri cu coloane, fiecare coloană a
 
 ### Titluri
 <div class="example">
-	<h1>h1. Titlu design.gov.ro</h1>
-	<h2>h2. Titlu design.gov.ro</h2>
-	<h3>h3. Titlu design.gov.ro</h3>
-	<h4>h4. Titlu design.gov.ro</h4>
-	<h5>h5. Titlu design.gov.ro</h5>
-	<h6>h6. Titlu design.gov.ro</h6>
+  <h1>h1. Titlu design.gov.ro</h1>
+  <h2>h2. Titlu design.gov.ro</h2>
+  <h3>h3. Titlu design.gov.ro</h3>
+  <h4>h4. Titlu design.gov.ro</h4>
+  <h5>h5. Titlu design.gov.ro</h5>
+  <h6>h6. Titlu design.gov.ro</h6>
 </div>
 ``` html
 <h1>h1. Titlu design.gov.ro</h1>
@@ -130,8 +130,8 @@ Grila este una standard prin care adaugi rânduri cu coloane, fiecare coloană a
 Butoanele sunt folosite pentru **acțiuni** în formulare și acțiuni primare în pagină, iar legăturile din text sunt folosite pentru **destinații** sau pentru a ajunge de la o pagină la alta.
 
 <div class="example">
-	<button class="btn btn-default" type="button">Buton button</button>
-	<a class="btn btn-default" href="#" role="button">Buton link</a>
+  <button class="btn btn-default" type="button">Buton button</button>
+  <a class="btn btn-default" href="#" role="button">Buton link</a>
 </div>
 ``` html
 <button class="btn btn-default" type="button">Buton button</button>
@@ -140,8 +140,8 @@ Butoanele sunt folosite pentru **acțiuni** în formulare și acțiuni primare �
 
 ### Dimensiunea butoanelor
 <div class="example">
-	<button class="btn btn-default" type="button">Buton</button>
-	<button class="btn btn-default btn-sm" type="button">Buton mic</button>
+  <button class="btn btn-default" type="button">Buton</button>
+  <button class="btn btn-default btn-sm" type="button">Buton mic</button>
 </div>
 ``` html
 <button class="btn btn-default" type="button">Buton</button>
@@ -153,15 +153,15 @@ Butoanele primare sunt folosite pentru a indica acțiunea principală dintr-o pa
 
 Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are un potențial periculos (ex: ștergerea unei resurse).
 <div class="example">
-	<p>
-	<button class="btn btn-primary" type="button">Buton principal</button>
-	<button class="btn btn-primary btn-sm" type="button">Buton principal mic</button>
-	</p>
+  <p>
+  <button class="btn btn-primary" type="button">Buton principal</button>
+  <button class="btn btn-primary btn-sm" type="button">Buton principal mic</button>
+  </p>
 
-	<p>
-	<button class="btn btn-danger" type="button">Buton periculos</button>
-	<button class="btn btn-sm btn-danger" type="button">Buton periculos mic</button>
-	</p>
+  <p>
+  <button class="btn btn-danger" type="button">Buton periculos</button>
+  <button class="btn btn-sm btn-danger" type="button">Buton periculos mic</button>
+  </p>
 
 </div>
 ``` html
@@ -194,11 +194,11 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 
 ### Grupuri de butoane
 <div class="example">
-	<div class="btn-group">
-	  <button class="btn btn-default" type="button">Buton</button>
-	  <button class="btn btn-default" type="button">Buton</button>
-	  <button class="btn btn-default" type="button">Buton</button>
-	</div>
+  <div class="btn-group">
+    <button class="btn btn-default" type="button">Buton</button>
+    <button class="btn btn-default" type="button">Buton</button>
+    <button class="btn btn-default" type="button">Buton</button>
+  </div>
 </div>
 ``` html
 <div class="btn-group">
@@ -213,10 +213,10 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 ### Input
 <div class="example">
 <form>
-	<p><input class="form-control input" type="text" placeholder="Input normal"></p>
+  <p><input class="form-control input" type="text" placeholder="Input normal"></p>
   <p><input class="form-control input-sm" type="text" placeholder="Input mic"></p>
-	<p><input class="form-control" type="text" placeholder="Input dezactivat" disabled></p>
-	<p><input class="form-control input-sm" type="text" placeholder="Input mic dezactivat" disabled></p>
+  <p><input class="form-control" type="text" placeholder="Input dezactivat" disabled></p>
+  <p><input class="form-control input-sm" type="text" placeholder="Input mic dezactivat" disabled></p>
 </form>
 </div>
 ``` html
@@ -231,35 +231,35 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 <div class="example">
 <form>
 <p>
-	<select class="form-control">
+  <select class="form-control">
     <option>Select normal</option>
-		<option>1</option>
-		<option>2</option>
-		<option>3</option>
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
   </select>
 </p>
 <p>
-	<select class="form-control input-sm">
+  <select class="form-control input-sm">
     <option>Select mic</option>
-		<option>1</option>
-		<option>2</option>
-		<option>3</option>
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
   </select>
 </p>
 <p>
-	<select class="form-control" disabled>
+  <select class="form-control" disabled>
     <option>Select normal</option>
-		<option>1</option>
-		<option>2</option>
-		<option>3</option>
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
   </select>
 </p>
 <p>
-	<select class="form-control input-sm" disabled>
+  <select class="form-control input-sm" disabled>
     <option>Select mic</option>
-		<option>1</option>
-		<option>2</option>
-		<option>3</option>
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
   </select>
 </p>
 </form>
@@ -299,19 +299,19 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios" checked>
-		Aceasta este prima opțiune și este implicită
+    Aceasta este prima opțiune și este implicită
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios">
-		Aceasta este a doua opțiune
+    Aceasta este a doua opțiune
   </label>
 </div>
 <div class="radio disabled">
   <label>
     <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3" disabled>
-		A treia opțiune este dezactivată
+    A treia opțiune este dezactivată
   </label>
 </div>
 </div>
@@ -332,19 +332,19 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios" checked>
-		Aceasta este prima opțiune și este implicită
+    Aceasta este prima opțiune și este implicită
   </label>
 </div>
 <div class="radio">
   <label>
     <input type="radio" name="optionsRadios">
-		Aceasta este a doua opțiune
+    Aceasta este a doua opțiune
   </label>
 </div>
 <div class="radio disabled">
   <label>
     <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3" disabled>
-		A treia opțiune este dezactivată
+    A treia opțiune este dezactivată
   </label>
 </div>
 ```
@@ -454,7 +454,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
         <li><a href="#">Link</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-					<ul class="dropdown-menu">
+          <ul class="dropdown-menu">
             <li><a href="#">Acțiune</a></li>
             <li><a href="#">Altă acțiune</a></li>
             <li role="separator" class="divider"></li>
@@ -476,15 +476,15 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 <div class="example">
 <ul class="nav nav-side">
   <li class="active"><a href="#">Cont</a></li>
-	<li><a href="#">Profil</a></li>
-	<li><a href="#">Mesaje</a></li>
+  <li><a href="#">Profil</a></li>
+  <li><a href="#">Mesaje</a></li>
 </ul>
 </div>
 ``` html
 <ul class="nav nav-side">
   <li class="active"><a href="#">Cont</a></li>
-	<li><a href="#">Profil</a></li>
-	<li><a href="#">Mesaje</a></li>
+  <li><a href="#">Profil</a></li>
+  <li><a href="#">Mesaje</a></li>
 </ul>
 ```
 

@@ -10,6 +10,9 @@ layout: default
 			{% if page.title == "Componente" %}
 				{% assign nav = site.nav_componente %}
 			{% else %}
+			{% if page.title == "Utilizare" %}
+			{% assign nav = site.nav_utilizare %}
+			{% else %}
 				{% assign nav = site.nav_principii %}
 			{% endif %}
 			{% for n in nav %}

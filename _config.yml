@@ -71,6 +71,13 @@ nav_componente:
 - page: Șabloane
   permalink: '#abloane'
 
+nav_utilizare:
+- page: Pentru dezvoltatori
+  permalink: '#pentru-dezvoltatori'
+
+- page: Pentru designeri
+  permalink: '#pentru-designeri'
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
