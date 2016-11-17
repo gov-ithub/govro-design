@@ -25,13 +25,13 @@ github_username:  gov-ithub
 
 nav_main:
 - page: Principii
-  permalink: '/govro-design/'
+  permalink: '/govro-design'
 
 - page: Componente
-  permalink: '/govro-design/componente/'
+  permalink: '/govro-design/componente'
 
 - page: Utilizare
-  permalink: '/govro-design/utilizare/'
+  permalink: '/govro-design/utilizare'
 
 nav_principii:
 - page: Principii generale
