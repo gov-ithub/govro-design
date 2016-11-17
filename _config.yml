@@ -38,10 +38,10 @@ nav_principii:
   permalink: '/govro-design/'
 
 - page: Principii de UX
-  permalink: '/principii/ux'
+  permalink: '/govro-design/principii/ux'
 
 - page: Principii de UI
-  permalink: '/principii/ui'
+  permalink: '/govro-design/principii/ui'
 
 nav_componente:
 - page: Așezarea în pagină
