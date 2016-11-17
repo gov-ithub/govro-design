@@ -1,8 +1,8 @@
 # design.gov.ro
 Ghidul de proiectare a serviciilor gov.ro conține:
 - [principii generale](https://gov-ithub.github.io/govro-design/)
-- [principii de UX](https://gov-ithub.github.io/govro-design/ux/)
-- [principii de UI](https://gov-ithub.github.io/govro-design/ui/)
+- [principii de UX](https://gov-ithub.github.io/govro-design/principii/ux/)
+- [principii de UI](https://gov-ithub.github.io/govro-design/principii/ui/)
 - [componente de UI](https://gov-ithub.github.io/govro-design/componente/)
 
 ## Contribuie

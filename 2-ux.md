@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Principii de UX
-permalink: /ux/
+permalink: /principii/ux/
 ---
 
-## Ce este "User Experience"
->_**User Experience (UX)**_ reprezintă totalitatea emoțiilor, crezurilor, preferințelor, percepțiilor, răspunsurilor fizice și psihologice, precum și comportamentele și realizările utilizatorului, generate în timpul folosirii și după folosirea unui produs sau serviciu web.
+## Ce este "User Experience"?
+_**User Experience (UX)**_ reprezintă totalitatea emoțiilor, crezurilor, preferințelor, percepțiilor, răspunsurilor fizice și psihologice, precum și comportamentele și realizările utilizatorului, generate în timpul folosirii și după folosirea unui produs sau serviciu web.
 
 _User Experience Design-ul_ (UXD) îmbunătățește experiența utilizatorului vizavi de acel produs sau serviciu web. O bună experiență a utilizatorului va crește automat gradul de adopție al acelui produs sau serviciu web.
 

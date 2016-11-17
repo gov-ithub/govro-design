@@ -3,12 +3,27 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
+	<div class="row">
+		<div class="col-md-3">
+			<nav id="nav-sidebar" class="hidden-print hidden-sm hidden-xs" data-spy="affix" data-offset-top="58">
+			<ul class="nav nav-side">
+			{% if page.title == "Componente" %}
+				{% assign nav = site.nav_componente %}
+			{% else %}
+				{% assign nav = site.nav_principii %}
+			{% endif %}
+			{% for n in nav %}
+			    <li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
+			{% endfor %}
+			</ul>
+		</nav>
+		</div>
+	  <div class="col-md-9">
+			<header class="post-header">
+		    <h1 class="post-title">{{ page.title | escape }}</h1>
+		  </header>
+	    {{ content }}
+	  </div>
+	</div>
 
 </article>

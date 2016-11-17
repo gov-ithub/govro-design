@@ -23,8 +23,57 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: govithub_ro
 github_username:  gov-ithub
 
+nav_main:
+- page: Principii
+  permalink: '/'
+
+- page: Componente
+  permalink: '/componente/'
+
+- page: Utilizare
+  permalink: '/utilizare/'
+
+nav_principii:
+- page: Principii generale
+  permalink: '/'
+
+- page: Principii de UX
+  permalink: '/principii/ux'
+
+- page: Principii de UI
+  permalink: '/principii/ui'
+
+nav_componente:
+- page: Așezarea în pagină
+  permalink: '#aezarea-n-pagin'
+
+- page: Tipografia
+  permalink: '#tipografia'
+
+- page: Butoanele
+  permalink: '#butoanele'
+
+- page: Formularele
+  permalink: '#formularele'
+
+- page: Navigația
+  permalink: '#navigaia'
+
+- page: Alertele și notificările
+  permalink: '#alertele-i-notificrile'
+
+- page: Starea implicită
+  permalink: '#starea-implicit'
+
+- page: Utilitare
+  permalink: '#utilitare'
+
+- page: Șabloane
+  permalink: '#abloane'
+
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 gems:
   - jekyll-feed

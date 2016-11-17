@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Principii de UI
-permalink: /ui/
+permalink: /principii/ui/
 ---
 
 ## Ce este _UI_
