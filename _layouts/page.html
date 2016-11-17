@@ -9,9 +9,8 @@ layout: default
 			<ul class="nav nav-side">
 			{% if page.title == "Componente" %}
 				{% assign nav = site.nav_componente %}
-			{% else %}
-			{% if page.title == "Utilizare" %}
-			{% assign nav = site.nav_utilizare %}
+			{% elsif page.title == "Utilizare" %}
+				{% assign nav = site.nav_utilizare %}
 			{% else %}
 				{% assign nav = site.nav_principii %}
 			{% endif %}
