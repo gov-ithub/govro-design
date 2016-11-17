@@ -19,23 +19,23 @@ email: design@ithub.gov.ro
 description: > # this means to ignore newlines until "baseurl:"
   Ghid de proiectare a serviciilor gov.ro
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gov-ithub.github.io/govro-design/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: govithub_ro
 github_username:  gov-ithub
 
 nav_main:
 - page: Principii
-  permalink: '/'
+  permalink: '/govro-design/'
 
 - page: Componente
-  permalink: '/componente/'
+  permalink: '/govro-design/componente/'
 
 - page: Utilizare
-  permalink: '/utilizare/'
+  permalink: '/govro-design/utilizare/'
 
 nav_principii:
 - page: Principii generale
-  permalink: '/'
+  permalink: '/govro-design/'
 
 - page: Principii de UX
   permalink: '/principii/ux'
