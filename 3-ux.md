@@ -80,15 +80,15 @@ Arhitectura Informației are 5 mari componente [4]:
 * analizând _tag-urile_ generate de utilizatori. [4]
 
 ### 1.3 Tipuri de sisteme de navigare
-* navigare globală (meniu global): unde mă aflu în cadrul website-ului
+* navigare globală (meniu global): unde mă aflu în cadrul website-ului?
 * navigare locală: ce conținut pot găsi în vecinătatea paginii curente?
 * navigare contextuală: ce conținut pot citi mai departe, pornind de la pagina curentă?
 * navigări suplimentare: _site map-uri_, indecși de website, tutoriale pentru o activitate anume de pe website etc
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 Navigarea globală poate fi:
-* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com) 
-* _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul Amazon.com).
+* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul [nytimes.com](http://www.nytimes.com/)) 
+* _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul [amazon.com](https://www.amazon.com/)).
 
 Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
 
