@@ -44,18 +44,17 @@ Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim 
 ## 1. Arhitectura Informației (IA)
 Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
 
-O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de lumea reală (orientarea într-un supermarket sau într-o gară) sau de lumea online (un website, o aplicație software). [3]
+O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de _orientarea în lumea reală_ (într-un supermarket, o gară, un spital etc) sau de _orientarea în lumea digitală_ (un website, o aplicație software). [3]
 
 Arhitectura Informației are 5 mari componente [4]:
-* Sisteme organizaționale
-* Sisteme de etichetare (_labels_)
-* Sisteme de navigare
-* Sisteme de căutare
-* Tezaure, vocabulare controlate, metadata
+* Sisteme organizaționale: modul în care organizăm informația pe un website
+* Sisteme de etichetare (_labels_): modul în care reprezentăm informația
+* Sisteme de navigare: modul în care putem naviga într-un website
+* Sisteme de căutare: modul în care căutăm informația pe un website
+* Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
 
-### 1.1 Sisteme organizaționale
-Reprezintă modul în care organizăm informația pe un website:
-* alfabetic
+### 1.1 Tipuri de sisteme organizaționale
+* alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea celor de mai jos)
 * cronologic
 * geografic
 * după subiect (_topic_)
@@ -65,15 +64,14 @@ Reprezintă modul în care organizăm informația pe un website:
 * după clasificări sociale (generate de utilizatori): de exemplu, _free tag-urile_ de pe Flickr
 * o combinație între două sau mai multe moduri de mai sus. [4]
 
-### 1.2 Sisteme de etichetare (_labels_)
-Reprezintă modul în care reprezentăm informația:
+### 1.2 Tipuri de etichetare (_labels_)
 * link-uri contextuale (_hyperlinks_)
 * titluri de paragrafe (_headings_)
 * opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
 * termeni de index (_keywords_, _tags_ etc)
 * iconițe (etichete vizuale).
 
-Cum putem crea etichete eficiente?
+**Cum putem crea etichete eficiente?**
 * analizând conținutul website-ului
 * cerând autorilor de conținut de pe website să propună etichete
 * cerând sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
@@ -81,8 +79,7 @@ Cum putem crea etichete eficiente?
 * analizând _search log-urile_ de pe website (din aplicație)
 * analizând _tag-urile_ generate de utilizatori. [4]
 
-### 1.3 Sisteme de navigare
-Reprezintă modul în care putem naviga într-un website (aplicație):
+### 1.3 Tipuri de sisteme de navigare
 * navigare globală (meniu global): unde mă aflu în cadrul website-ului
 * navigare locală: ce conținut pot găsi în vecinătatea paginii curente?
 * navigare contextuală: ce conținut pot citi mai departe, pornind de la pagina curentă?
@@ -96,8 +93,6 @@ Navigarea globală poate fi:
 Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
 
 ### 1.4 Sisteme de căutare
-Reprezintă modul în care căutăm informația pe un website (aplicație).
-
 Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * website-ul conține foarte multe pagini (de ordinul zecilor)
 * poți (și ai resursele necesare) să optimizezi sistemul de căutare în website (adăugarea de filtre pentru căutare avansată, afișarea rezultatelor căutării în funcție de relevanță/alte criterii, afișarea de sugestii pentru căutările care nu au generat niciun rezultat, indexarea rezultatelor de căutare pentru anumiți etc)
@@ -120,13 +115,13 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 
 
 ### 1.5 Tezaure, vocabulare controlate, metadata
-Reprezintă componente de arhitectura informației deseori _invizibile_ pentru utilizatorul unui website (aplicații). Au rol în a sprijini alte componente de arhitectura informației, cum ar fi navigarea și căutarea.
-
 _Tag-urile metadata_ sunt folosite pentru a descrie documente, pagini, imagini, software, fișiere audio/video și alte obiecte de conținut, cu scopul de a îmbunătăți navigarea și extragerea de informații.
 
 Vocabularele controlate sunt liste de termeni echivalenți ([synonym rings](https://en.wikipedia.org/wiki/Synonym_ring)) sau liste de termeni preferați (_[authority file](https://en.wikipedia.org/wiki/Authority_control)_).
 
 Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalență](http://eurovoc.europa.eu/drupal/?q=node/322), [de ierarhie](http://eurovoc.europa.eu/drupal/?q=node/323) și [de asociere](http://eurovoc.europa.eu/drupal/?q=node/325) sunt identificate cu scopul de a îmbunătăți extragerea informației. De exemplu, un tezaur despre vin pornește de la termenul "vin" și conține sub-termenii "vin roșu", "vin alb", care la rândul lor conțin sub-termenii "vin dulce", "vin sec", "vin demi-sec", care la rândul lor conțin sub-termenii specifici unui soi anume de vin ("Chardonnay", "Cabernet Sauvignon" etc). [4]
+
+Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a website-ului (aplicației).
 
 
 
