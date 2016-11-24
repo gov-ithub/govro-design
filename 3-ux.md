@@ -22,7 +22,7 @@ Un _User Experience Designer_ folosește următoarele metode și discipline:
 * _content strategy_
 * psihologie
 
-**Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _UX research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
+**Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _user experience research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
 
 _User Experience Designer-ul_ este dator să testeze pe utilizatori reali dacă produsul sau serviciul web proiectat de el este ușor de folosit și intuitiv pentru utilizatori. Acest lucru se face prin teste cu utilizatorii, folosind metode:
 * cantitative: _task success rate_, _time on task_, _error rate_, proporția de folosire a navigării versus căutării pe website etc
@@ -134,6 +134,6 @@ Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalen
 
 1. [User Experience Design, Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 2. [Information Architecture, Wikipedia](https://en.wikipedia.org/wiki/Information_architecture)
-3. [What is Information Architcture?](http://www.iainstitute.org/what-is-ia)
+3. [What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
 
