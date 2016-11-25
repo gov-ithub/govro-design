@@ -54,7 +54,7 @@ Arhitectura Informației are 5 mari componente [4]:
 * Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
 
 ### 1.1 Tipuri de sisteme organizaționale
-* alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea celor de mai jos)
+* alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
 * cronologic
 * geografic
 * după subiect (_topic_)
@@ -124,6 +124,19 @@ Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalen
 Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a website-ului (aplicației).
 
 
+###1.6 Cum creezi o bună arhitectură a informației
+Pasul 1: Definește scopurile beneficiarilor acelui website, vorbind cu aceștia:
+- identifici tipurile de public-țintă (personas)
+- determini scopurile website-ului
+- determini funcțiile necesare website-ului
+
+Pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research)
+- interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
+- chestionare trimise unui număr mare de utilizatori reprezentativi ai fiecărui tip de public-țintă (necesită zeci sau sute de participanți)
+
+Pasul 3. TBC ...
+
+[5]
 
 ## Bibliografie
 
@@ -131,4 +144,5 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 2. [Information Architecture, Wikipedia](https://en.wikipedia.org/wiki/Information_architecture)
 3. [What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
+5. [Guide to Creating Website Information Architecture and Content](https://wiki.metropolia.fi/download/attachments/24514709/guide_to_creating_website.pdf)
 
