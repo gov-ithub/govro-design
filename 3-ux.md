@@ -125,30 +125,31 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 
 ###1.6 Cum creezi o bună arhitectură a informației
-Pasul 1: Vorbește cu beneficiarii acelui website, pentru a defini:
+**Pasul 1:** Vorbește cu beneficiarii acelui website, pentru a defini:
 - tipurile de public-țintă (personas)
 - scopurile website-ului
 - funcțiile necesare website-ului
 
-Pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+**Pasul 2:** Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
 - organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
 - trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
 
-Pasul 3: Definește ariile de conținut ale website-ului:
+**Pasul 3:** Definește ariile de conținut ale website-ului:
 - analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
 - creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
 
-Pasul 4: Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
+**Pasul 4:** Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
 
-Pasul 5:  Creează site map-ul website-ului și testează-l pe utilizatori finali.
+**Pasul 5:**  Creează site map-ul website-ului și testează-l pe utilizatori finali.
 
-Pasul 6: Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată mai sus).
+**Pasul 6:** Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată mai sus).
 
-Pasul 7:
+**Pasul 7:** Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
 
-Pasul 8:
-
+**Pasul 8:**  Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
 [5]
+
+
 
 ## Bibliografie
 
