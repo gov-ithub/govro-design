@@ -23,7 +23,7 @@ Un _User Experience Designer_ folosește următoarele metode și discipline:
 - _content strategy_
 - psihologie
 
-**Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _UX research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
+**Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _user experience research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
 
 _User Experience Designer-ul_ este dator să testeze pe utilizatori reali dacă produsul sau serviciul web proiectat de el este ușor de folosit și intuitiv pentru utilizatori. Acest lucru se face prin teste cu utilizatorii, folosind metode:
 
@@ -46,20 +46,19 @@ Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim 
 ## 1. Arhitectura Informației (IA)
 Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
 
-O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de lumea reală (orientarea într-un supermarket sau într-o gară) sau de lumea online (un website, o aplicație software). [3]
+O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de _orientarea în lumea reală_ (într-un supermarket, o gară, un spital etc) sau de _orientarea în lumea digitală_ (un website, o aplicație software). [3]
 
 Arhitectura Informației are 5 mari componente [4]:
 
-* Sisteme organizaționale
-* Sisteme de etichetare (_labels_)
-* Sisteme de navigare
-* Sisteme de căutare
-* Tezaure, vocabulare controlate, metadata
+* Sisteme organizaționale: modul în care organizăm informația pe un website
+* Sisteme de etichetare (_labels_): modul în care reprezentăm informația
+* Sisteme de navigare: modul în care putem naviga într-un website
+* Sisteme de căutare: modul în care căutăm informația pe un website
+* Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
 
-### 1.1 Sisteme organizaționale
-Reprezintă modul în care organizăm informația pe un website:
+### 1.1 Tipuri de sisteme organizaționale
+* alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
 
-* alfabetic
 * cronologic
 * geografic
 * după subiect (_topic_)
@@ -69,16 +68,14 @@ Reprezintă modul în care organizăm informația pe un website:
 * după clasificări sociale (generate de utilizatori): de exemplu, _free tag-urile_ de pe Flickr
 * o combinație între două sau mai multe moduri de mai sus. [4]
 
-### 1.2 Sisteme de etichetare (_labels_)
-Reprezintă modul în care reprezentăm informația:
-
+### 1.2 Tipuri de etichetare (_labels_)
 * link-uri contextuale (_hyperlinks_)
 * titluri de paragrafe (_headings_)
 * opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
 * termeni de index (_keywords_, _tags_ etc)
 * iconițe (etichete vizuale).
 
-Cum putem crea etichete eficiente?
+**Cum putem crea etichete eficiente?**
 
 * analizând conținutul website-ului
 * cerând autorilor de conținut de pe website să propună etichete
@@ -87,25 +84,20 @@ Cum putem crea etichete eficiente?
 * analizând _search log-urile_ de pe website (din aplicație)
 * analizând _tag-urile_ generate de utilizatori. [4]
 
-### 1.3 Sisteme de navigare
-Reprezintă modul în care putem naviga într-un website (aplicație):
-
-* navigare globală (meniu global): unde mă aflu în cadrul website-ului
+### 1.3 Tipuri de sisteme de navigare
+* navigare globală (meniu global): unde mă aflu în cadrul website-ului?
 * navigare locală: ce conținut pot găsi în vecinătatea paginii curente?
 * navigare contextuală: ce conținut pot citi mai departe, pornind de la pagina curentă?
 * navigări suplimentare: _site map-uri_, indecși de website, tutoriale pentru o activitate anume de pe website etc
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 Navigarea globală poate fi:
-
-* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul nytimes.com)
-* _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul Amazon.com).
+* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul [nytimes.com](http://www.nytimes.com/))
+* _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul [amazon.com](https://www.amazon.com/)).
 
 Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
 
 ### 1.4 Sisteme de căutare
-Reprezintă modul în care căutăm informația pe un website (aplicație).
-
 Este recomandat să oferi o funcție de _căutare în website_ dacă:
 
 * website-ul conține foarte multe pagini (de ordinul zecilor)
@@ -130,13 +122,39 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 
 
 ### 1.5 Tezaure, vocabulare controlate, metadata
-Reprezintă componente de arhitectura informației deseori _invizibile_ pentru utilizatorul unui website (aplicații). Au rol în a sprijini alte componente de arhitectura informației, cum ar fi navigarea și căutarea.
-
 _Tag-urile metadata_ sunt folosite pentru a descrie documente, pagini, imagini, software, fișiere audio/video și alte obiecte de conținut, cu scopul de a îmbunătăți navigarea și extragerea de informații.
 
 Vocabularele controlate sunt liste de termeni echivalenți ([synonym rings](https://en.wikipedia.org/wiki/Synonym_ring)) sau liste de termeni preferați (_[authority file](https://en.wikipedia.org/wiki/Authority_control)_).
 
 Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalență](http://eurovoc.europa.eu/drupal/?q=node/322), [de ierarhie](http://eurovoc.europa.eu/drupal/?q=node/323) și [de asociere](http://eurovoc.europa.eu/drupal/?q=node/325) sunt identificate cu scopul de a îmbunătăți extragerea informației. De exemplu, un tezaur despre vin pornește de la termenul "vin" și conține sub-termenii "vin roșu", "vin alb", care la rândul lor conțin sub-termenii "vin dulce", "vin sec", "vin demi-sec", care la rândul lor conțin sub-termenii specifici unui soi anume de vin ("Chardonnay", "Cabernet Sauvignon" etc). [4]
+
+Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a website-ului (aplicației).
+
+
+###1.6 Cum creezi o bună arhitectură a informației
+**Pasul 1:** Vorbește cu beneficiarii acelui website, pentru a defini:
+- tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
+- scopurile website-ului
+- funcțiile necesare website-ului
+
+**Pasul 2:** Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+- organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
+- trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
+
+**Pasul 3:** Definește ariile de conținut ale website-ului:
+- analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
+- creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
+
+**Pasul 4:** Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
+
+**Pasul 5:**  Creează site map-ul website-ului și testează-l pe utilizatori finali.
+
+**Pasul 6:** Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
+
+**Pasul 7:** Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
+
+**Pasul 8:**  Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
+[5]
 
 
 
@@ -144,5 +162,6 @@ Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalen
 
 1. [User Experience Design, Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 2. [Information Architecture, Wikipedia](https://en.wikipedia.org/wiki/Information_architecture)
-3. [What is Information Architcture?](http://www.iainstitute.org/what-is-ia)
+3. [What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
+5. [Guide to Creating Website Information Architecture and Content](https://wiki.metropolia.fi/download/attachments/24514709/guide_to_creating_website.pdf)
