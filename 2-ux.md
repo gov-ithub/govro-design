@@ -128,19 +128,19 @@ Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalen
 Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a website-ului (aplicației).
 
 
-###1.6 Cum creezi o bună arhitectură a informației
+### 1.6 Cum creezi o bună arhitectură a informației
 **Pasul 1:** Vorbește cu beneficiarii acelui website, pentru a defini:
-- tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
-- scopurile website-ului
-- funcțiile necesare website-ului
+* tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
+* scopurile website-ului
+* funcțiile necesare website-ului
 
 **Pasul 2:** Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
-- organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
-- trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
+* organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
+* trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
 
 **Pasul 3:** Definește ariile de conținut ale website-ului:
-- analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
-- creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
+* analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
+* creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
 
 **Pasul 4:** Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
 
