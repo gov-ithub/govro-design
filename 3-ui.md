@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Principii de UI
-permalink: /proiectare/
+permalink: /principii/ui/
 ---
 
 ## Ce este _UI_
