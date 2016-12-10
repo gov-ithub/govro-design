@@ -164,10 +164,19 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * găsește punctele comune ale diferitelor tipuri de public-țintă 
 * reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
 
-**Ce etape are UX Research-ul?**
-* strângerea datelor de la utilizatori
-* analizarea datelor strânse, cu scopul de a îmbunătăți design-ul curent al proiectului web.
+**Când trebuie realizat UX Research-ul?**
+* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la stakeholderi (beneficiarii indirecți ai proiectului), interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc 
+* de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste 1:1 cu utilizatorii, A/B testing, card sorting etc
+* după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
+**Principalele metode de UX Research**:
+* cantitative (metode prin care putem _număra_ câți utilizatori reacționează pozitiv la design-ul testat):
+  * timpul necesar realizării unei activități-cheie de pe website (secunde)
+  * rata de succes pentru o activitate-cheie de pe website (procente din numărul total de participanți la teste cu utilizatorii)
+  * numărul de erori apărute în timpul realizării unei activități-cheie de pe website
+  * analytics (număr de utilizatori pe website, bounce rate, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc)
+  * chestionare de satisfacție după folosirea website-ului: [USE](http://garyperlman.com/quest/quest.cgi?form=USE), [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), [NPS](https://en.wikipedia.org/wiki/Net_Promoter) etc
+* calitative (metode prin care putem afla _de ce_ utilizatorii reacționează într-un anume fel la design-ul testat):
 
 
 
