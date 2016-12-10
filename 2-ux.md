@@ -155,7 +155,7 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 
 ##2. User Experience Research (UX Research)
-Este acea ramură din _User Experience Design_ care studiază impactul pe care un design anume îl are asupra unui public-țintă al proiectului web.[6]
+Este acea ramură din _User Experience Design_ care studiază impactul pe care un design anume îl are asupra unui public-țintă al proiectului web. [6]
 
 **Ce scopuri are UX Research-ul?**
 * ajută echipa de dezvoltare să nu proiecteze pentru un singur tip de utilizatori (ei înșiși), ci să descopere principalele tipuri de public-țință ale unui proiect web
@@ -165,7 +165,7 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
 
 **Când trebuie realizat UX Research-ul?**
-* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la stakeholderi (beneficiarii indirecți ai proiectului), interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc 
+* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc 
 * de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
 * după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
@@ -174,7 +174,7 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
   * timpul necesar realizării unei activități-cheie de pe website (secunde)
   * rata de succes pentru o activitate-cheie de pe website (procente din numărul total de participanți la teste cu utilizatorii)
   * numărul de erori apărute în timpul realizării unei activități-cheie de pe website
-  * web analytics (număr de utilizatori pe website, bounce rate, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc) [9]
+  * web analytics (număr de utilizatori pe website, _bounce rate_, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc) [9]
   * chestionare de satisfacție privind interacțiunea cu website-ul: [USE](http://garyperlman.com/quest/quest.cgi?form=USE), [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), [NPS](https://en.wikipedia.org/wiki/Net_Promoter) etc
 * _calitative_ (metode prin care putem afla _de ce_ utilizatorii reacționează într-un anume fel la design-ul testat):
   * interviuri cu utilizatorii ([contextuale](https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html) sau [de la distanță](https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html))
