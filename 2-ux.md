@@ -12,16 +12,16 @@ _User Experience Design-ul_ (UXD) îmbunătățește experiența utilizatorului 
 _User Experience Designer-ul_ este acea persoană care înțelege scopurile și contextul de folosire al potențialilor utilizatori ai unui produs sau serviciu web. El folosește această înțelegere pentru a proiecta un produs sau serviciu web în limita constrângerilor tehnice, legale sau de business specifice acelui produs sau serviciu web.
 
 Un _User Experience Designer_ folosește următoarele metode și discipline:
+* _user (experience) research_
+* _product design_
+* _interaction design_
+* arhitectura informației (_information architecture_)
+* _usability_
+* _prototyping_
+* _interface design_
+* _content strategy_
+* psihologie
 
-- _user (experience) research_
-- _product design_
-- _interaction design_
-- arhitectura informației (_information architecture_)
-- _usability_
-- _prototyping_
-- _interface design_
-- _content strategy_
-- psihologie
 
 **Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _user experience research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
 
@@ -49,7 +49,6 @@ Este arta și știința de a organiza informația pe un website, un intranet, o 
 O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de _orientarea în lumea reală_ (într-un supermarket, o gară, un spital etc) sau de _orientarea în lumea digitală_ (un website, o aplicație software). [3]
 
 Arhitectura Informației are 5 mari componente [4]:
-
 * Sisteme organizaționale: modul în care organizăm informația pe un website
 * Sisteme de etichetare (_labels_): modul în care reprezentăm informația
 * Sisteme de navigare: modul în care putem naviga într-un website
@@ -58,7 +57,6 @@ Arhitectura Informației are 5 mari componente [4]:
 
 ### 1.1 Tipuri de sisteme organizaționale
 * alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
-
 * cronologic
 * geografic
 * după subiect (_topic_)
@@ -76,7 +74,6 @@ Arhitectura Informației are 5 mari componente [4]:
 * iconițe (etichete vizuale).
 
 **Cum putem crea etichete eficiente?**
-
 * analizând conținutul website-ului
 * cerând autorilor de conținut de pe website să propună etichete
 * cerând sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
@@ -131,31 +128,102 @@ Tezaurele sunt un tip de vocabulare controlate în care [relațiile de echivalen
 Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a website-ului (aplicației).
 
 
-###1.6 Cum creezi o bună arhitectură a informației
-**Pasul 1:** Vorbește cu beneficiarii acelui website, pentru a defini:
-- tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
-- scopurile website-ului
-- funcțiile necesare website-ului
-
-**Pasul 2:** Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
-- organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
-- trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
-
-**Pasul 3:** Definește ariile de conținut ale website-ului:
-- analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
-- creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
-
-**Pasul 4:** Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
-
-**Pasul 5:**  Creează site map-ul website-ului și testează-l pe utilizatori finali.
-
-**Pasul 6:** Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
-
-**Pasul 7:** Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
-
-**Pasul 8:**  Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
+### 1.6 Cum creezi o bună arhitectură a informației (checklist)
+- [ ] pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
+  * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
+  * scopurile website-ului
+  * funcțiile necesare website-ului
+- [ ] pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+ * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
+ * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
+- [ ] pasul 3: Definește ariile de conținut ale website-ului:
+ * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
+ * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
+- [ ] pasul 4: Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
+- [ ] pasul 5: Creează site map-ul website-ului și testează-l pe utilizatori finali.
+- [ ] pasul 6: Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
+- [ ] pasul 7: Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
+- [ ] pasul 8: Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
 [5]
 
+
+## 2. User Experience Research (UX Research)
+Este acea ramură din _User Experience Design_ care studiază impactul pe care un design anume îl are asupra unui public-țintă al proiectului web. [6]
+
+**Ce scopuri are UX Research-ul?**
+* ajută echipa de dezvoltare să nu proiecteze pentru un singur tip de utilizatori (ei înșiși), ci să descopere principalele tipuri de public-țință ale unui proiect web
+* confirmă sau infirmă presupunerile pe care echipa de dezvoltare le are în privința utilizatorilor finali ai unui website (aplicație)
+* ajută echipa de dezvoltare să identifice nevoile, motivațiile, scopurile și modelele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model)) ale utilizatorilor finali
+* găsește punctele comune ale diferitelor tipuri de public-țintă 
+* reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
+
+**Când trebuie realizat UX Research-ul?**
+* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc 
+* de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
+* după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
+
+**Principalele metode de UX Research**:
+* _cantitative_ (metode prin care putem _număra_ câți utilizatori reacționează pozitiv la design-ul testat):
+  * timpul necesar realizării unei activități-cheie de pe website (secunde)
+  * rata de succes pentru o activitate-cheie de pe website (procente din numărul total de participanți la teste cu utilizatorii)
+  * numărul de erori apărute în timpul realizării unei activități-cheie de pe website
+  * web analytics (număr de utilizatori pe website, _bounce rate_, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc) [9]
+  * chestionare de satisfacție privind interacțiunea cu website-ul: [USE](http://garyperlman.com/quest/quest.cgi?form=USE), [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), [NPS](https://en.wikipedia.org/wiki/Net_Promoter) etc
+* _calitative_ (metode prin care putem afla _de ce_ utilizatorii reacționează într-un anume fel la design-ul testat):
+  * interviuri cu utilizatorii ([contextuale](https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html) sau [de la distanță](https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html))
+  * [focus groups](https://www.usability.gov/how-to-and-tools/methods/focus-groups.html) (discuție moderată între 5-10 utilizatori reprezentativi ai website-ului)
+  * [evaluare euristică](https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html) (realizată de experți în usability)
+  * [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html) (crearea unui reprezentant fictiv pentru fiecare tip de public-țintă)
+  * [task analysis](https://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
+  * [use cases](https://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+[6,7]
+
+
+## 3. Interaction Design (IxD)
+_Interaction Design-ul_ (IxD) este acea disciplină care definește structura și comportamentul sistemelor digitale interactive, cu scopul de a facilita relația dintre utilizatori și acestea, fie că este vorba de calculatoare, telefoane mobile sau aparate electronice (ATM-uri, tonomate de cafea etc). [10,11]
+
+**Cele mai comune metodologii de IxD:**
+* _Goal-oriented design_: design-ul unui website (aplicație) trebuie să aibă ca prim scop rezolvarea problemelor utilizatorilor (satisfacerea unor nevoi și dorințe specifice); dogme specifice acestei metodologii:
+ * proiectează mai întâi, programează după aceea
+ * separă responsabilitatea de a proiecta de responsabilitatea de a programa
+ * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
+ * definește un utilizator specific pentru produsul care trebuie proiectat
+ * lucrează în echipe de două persoane [11]
+ 
+* _Usability_: gradul în care un software poate fi folosit de utilizatori specifici, raportat la:
+ * eficiența, flexibilitatea si robustețea software-ului
+ * abilitatea utilizatorilor de a învăța acel software
+ * satisfacția utilizatorilor după folosirea acelui software [11, 12]
+
+* _The 5 Dimensions_:
+ * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
+ * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
+ * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
+ * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
+ * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11] 
+ 
+* _Cognitive Psychology_: studiază felul în care mintea utilizatorului acționează: 
+ * modele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model))
+ * metafore de interfață (folosirea acțiunilor cunoscute cu scopul de a descoperi noi acțiuni posibile în acel software); de exemplu, iconița _Trash_ (_Recycle bin_) face analogie cu un coș de gunoi real
+ * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance)) [11]
+
+* _Personas_: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2 
+
+* _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
+ * iconițe dinamice
+ * animații
+ * sunete
+ * fonturi
+ * paleta de culori
+ * așezarea în pagină a elementelor [13]
+
+**Ce trebuie să livreze un _Interaction designer_?**
+* strategia de design: _pentru cine se proiectează acel software_ și _care sunt scopurile utilizatorilor_ (un UX Researcher poate livra de asemenea aceste informații)
+* wireframes pentru principalele interacțiuni posibile în acel software
+* prototipuri pentru acel software:
+ * construite pe hârtie
+ * construite în unelte specializate (Axure, Invision, Balsamiq etc)
+ * în format web (HTML, CSS) [11]
 
 
 ## Bibliografie
@@ -165,3 +233,12 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 3. [What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
 5. [Guide to Creating Website Information Architecture and Content](https://wiki.metropolia.fi/download/attachments/24514709/guide_to_creating_website.pdf)
+6. [User Research Basics](https://www.usability.gov/what-and-why/user-research.html)
+7. [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
+8. [A Crash Course in UX Design Research](https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.s93xziicr)
+9. [Web analytics, Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+10. [What is interaction design?, The Interaction Design Association](http://ixda.org/ixda-global/about-history/)
+11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
+12. [Usability, Wikipedia](https://en.wikipedia.org/wiki/Usability)
+13. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
+
