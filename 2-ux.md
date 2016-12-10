@@ -205,11 +205,17 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 * _Cognitive Psychology_: studiază felul în care mintea utilizatorului acționează: 
  * modele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model))
  * metafore de interfață (folosirea acțiunilor cunoscute cu scopul de a descoperi noi acțiuni posibile în acel software); de exemplu, iconița _Trash_ (_Recycle bin_) face analogie cu un coș de gunoi real
- * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance))
+ * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance)) [11]
 
-* Personas: 
+* Personas: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2 
 
-* Affective interaction design: [11]
+* _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
+ * iconițe dinamice
+ * animații
+ * sunete
+ * fonturi
+ * paleta de culori
+ * așezarea în pagină a elementelor [13]
 
 Livrabile:
 ...
@@ -232,4 +238,5 @@ Unelte:
 10. [What is interaction design?, The Interaction Design Association](http://ixda.org/ixda-global/about-history/)
 11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
 12. [Usability, Wikipedia](https://en.wikipedia.org/wiki/Usability)
+13. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
 
