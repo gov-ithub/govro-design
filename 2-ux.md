@@ -147,7 +147,7 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 [5]
 
 
-##2. User Experience Research (UX Research)
+## 2. User Experience Research (UX Research)
 Este acea ramură din _User Experience Design_ care studiază impactul pe care un design anume îl are asupra unui public-țintă al proiectului web. [6]
 
 **Ce scopuri are UX Research-ul?**
@@ -178,6 +178,35 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
   * [use cases](https://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 [6,7]
 
+
+## 3. Interaction Design (IxD)
+_Interaction Design-ul_ (IxD) este acea disciplină care definește structura și comportamentul sistemelor digitale interactive, cu scopul de a facilita relația dintre utilizatori și acestea, fie că este vorba de calculatoare, telefoane mobile sau aparate electronice (ATM-uri, tonomate de cafea etc). [10,11]
+
+**Cele mai comune metodologii de IxD:**
+* _Goal-oriented design_: design-ul unui website (aplicație) trebuie să aibă ca prim scop rezolvarea problemelor utilizatorilor (satisfacerea unor nevoi și dorințe specifice); dogme specifice acestei metodologii:
+ * proiectează mai întâi, programează după aceea
+ * separă responsabilitatea de a proiecta de responsabilitatea de a programa
+ * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
+ * definește un utilizator specific pentru produsul care trebuie proiectat
+ * lucrează în echipe de două persoane
+ 
+* _Usability_: gradul în care un software poate fi folosit de utilizatori specifici, raportat la:
+ * eficiența și flexibilitatea software-ului
+ * abilitatea utilizatorilor de a învăța acel software
+ * satisfacția utilizatorilor după folosirea acelui software
+
+* The 5 Dimensions: 
+* Cognitive Psychology:
+* Personas:
+* Affective interaction design: [11]
+
+Livrabile:
+...
+
+Unelte:
+...
+
+
 ## Bibliografie
 
 1. [User Experience Design, Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
@@ -189,4 +218,6 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 7. [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
 8. [A Crash Course in UX Design Research](https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.s93xziicr)
 9. [Web analytics, Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
+10. [What is interaction design?, The Interaction Design Association](http://ixda.org/ixda-global/about-history/)
+11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
 
