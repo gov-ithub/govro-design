@@ -154,6 +154,22 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 [5]
 
 
+##2. User Experience Research (UX Research)
+Este acea ramură din _User Experience Design_ care studiază impactul pe care un design anume îl are asupra unui public-țintă al proiectului web.[6]
+
+**Ce scopuri are UX Research-ul?**
+* ajută echipa de dezvoltare să nu proiecteze pentru un singur tip de utilizatori (ei înșiși), ci să descopere principalele tipuri de public-țință ale unui proiect web
+* confirmă sau infirmă presupunerile pe care echipa de dezvoltare le are în privința utilizatorilor finali ai unui website (aplicație)
+* ajută echipa de dezvoltare să identifice nevoile, motivațiile, scopurile și modelele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model)) ale utilizatorilor finali
+* găsește punctele comune ale diferitelor tipuri de public-țintă 
+* reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
+
+**Ce etape are UX Research-ul?**
+* strângerea datelor de la utilizatori
+* analizarea datelor strânse, cu scopul de a îmbunătăți design-ul curent al proiectului web.
+
+
+
 
 ## Bibliografie
 
@@ -162,4 +178,7 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 3. [What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
 5. [Guide to Creating Website Information Architecture and Content](https://wiki.metropolia.fi/download/attachments/24514709/guide_to_creating_website.pdf)
+6. [User Research Basics](https://www.usability.gov/what-and-why/user-research.html)
+7. [Complete Beginner’s Guide to UX Research]http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/
+8. [A Crash Course in UX Design Research](https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.s93xziicr)
 
