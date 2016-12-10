@@ -170,15 +170,20 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
 **Principalele metode de UX Research**:
-* cantitative (metode prin care putem _număra_ câți utilizatori reacționează pozitiv la design-ul testat):
+* _cantitative_ (metode prin care putem _număra_ câți utilizatori reacționează pozitiv la design-ul testat):
   * timpul necesar realizării unei activități-cheie de pe website (secunde)
   * rata de succes pentru o activitate-cheie de pe website (procente din numărul total de participanți la teste cu utilizatorii)
   * numărul de erori apărute în timpul realizării unei activități-cheie de pe website
   * analytics (număr de utilizatori pe website, bounce rate, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc)
   * chestionare de satisfacție după folosirea website-ului: [USE](http://garyperlman.com/quest/quest.cgi?form=USE), [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), [NPS](https://en.wikipedia.org/wiki/Net_Promoter) etc
-* calitative (metode prin care putem afla _de ce_ utilizatorii reacționează într-un anume fel la design-ul testat):
-
-
+* _calitative_ (metode prin care putem afla _de ce_ utilizatorii reacționează într-un anume fel la design-ul testat):
+  * interviuri cu utilizatorii
+  * [focus groups](https://www.usability.gov/how-to-and-tools/methods/focus-groups.html) (discuție moderată între 5-10 utilizatori reprezentativi ai website-ului)
+  * [evaluare euristică](https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html) (realizată de experți în usability)
+  * personas
+  * task analysis
+  * use cases
+[6]
 
 ## Bibliografie
 
@@ -188,6 +193,6 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 4. [Information Architecture: For the Web and Beyond](https://www.amazon.com/Information-Architecture-For-Web-Beyond/dp/1491911689)
 5. [Guide to Creating Website Information Architecture and Content](https://wiki.metropolia.fi/download/attachments/24514709/guide_to_creating_website.pdf)
 6. [User Research Basics](https://www.usability.gov/what-and-why/user-research.html)
-7. [Complete Beginner’s Guide to UX Research]http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/
+7. [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
 8. [A Crash Course in UX Design Research](https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.s93xziicr)
 
