@@ -207,7 +207,7 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * metafore de interfață (folosirea acțiunilor cunoscute cu scopul de a descoperi noi acțiuni posibile în acel software); de exemplu, iconița _Trash_ (_Recycle bin_) face analogie cu un coș de gunoi real
  * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance)) [11]
 
-* Personas: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2 
+* _Personas_: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2 
 
 * _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
  * iconițe dinamice
@@ -217,11 +217,13 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * paleta de culori
  * așezarea în pagină a elementelor [13]
 
-Livrabile:
-...
-
-Unelte:
-...
+**Ce trebuie să livreze un _Interaction designer_?**
+* strategia de design: _pentru cine se proiectează acel software_ și _care sunt scopurile utilizatorilor_ (un UX Researcher poate livra de asemenea aceste informații)
+* wireframes pentru principalele interacțiuni posibile în acel software
+* prototipuri pentru acel software:
+ * construite pe hârtie
+ * construite în unelte specializate (Axure, Invision, Balsamiq etc)
+ * în format web (HTML, CSS) [11]
 
 
 ## Bibliografie
