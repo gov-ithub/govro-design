@@ -166,7 +166,7 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 
 **Când trebuie realizat UX Research-ul?**
 * înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la stakeholderi (beneficiarii indirecți ai proiectului), interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc 
-* de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste 1:1 cu utilizatorii, A/B testing, card sorting etc
+* de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
 * după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
 **Principalele metode de UX Research**:
@@ -174,16 +174,16 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
   * timpul necesar realizării unei activități-cheie de pe website (secunde)
   * rata de succes pentru o activitate-cheie de pe website (procente din numărul total de participanți la teste cu utilizatorii)
   * numărul de erori apărute în timpul realizării unei activități-cheie de pe website
-  * analytics (număr de utilizatori pe website, bounce rate, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc)
-  * chestionare de satisfacție după folosirea website-ului: [USE](http://garyperlman.com/quest/quest.cgi?form=USE), [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), [NPS](https://en.wikipedia.org/wiki/Net_Promoter) etc
+  * web analytics (număr de utilizatori pe website, bounce rate, timpul mediu petrecut într-o pagină, _click-through rate_, rata de conversie etc) [9]
+  * chestionare de satisfacție privind interacțiunea cu website-ul: [USE](http://garyperlman.com/quest/quest.cgi?form=USE), [SUS](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), [NPS](https://en.wikipedia.org/wiki/Net_Promoter) etc
 * _calitative_ (metode prin care putem afla _de ce_ utilizatorii reacționează într-un anume fel la design-ul testat):
-  * interviuri cu utilizatorii
+  * interviuri cu utilizatorii ([contextuale](https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html) sau [de la distanță](https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html))
   * [focus groups](https://www.usability.gov/how-to-and-tools/methods/focus-groups.html) (discuție moderată între 5-10 utilizatori reprezentativi ai website-ului)
   * [evaluare euristică](https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html) (realizată de experți în usability)
-  * personas
-  * task analysis
-  * use cases
-[6]
+  * [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html) (crearea unui reprezentant fictiv pentru fiecare tip de public-țintă)
+  * [task analysis](https://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
+  * [use cases](https://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+[6,7]
 
 ## Bibliografie
 
@@ -195,4 +195,5 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 6. [User Research Basics](https://www.usability.gov/what-and-why/user-research.html)
 7. [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
 8. [A Crash Course in UX Design Research](https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.s93xziicr)
+9. [Web analytics, Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 
