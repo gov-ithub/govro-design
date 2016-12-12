@@ -26,55 +26,74 @@ github_username:  gov-ithub
 nav_main:
 - page: Principii
   permalink: '/govro-design'
-
+- page: UX
+  permalink: '/govro-design/ux'
+- page: UI
+  permalink: '/govro-design/ui'
 - page: Componente
   permalink: '/govro-design/componente'
-
 - page: Utilizare
   permalink: '/govro-design/utilizare'
 
 nav_principii:
 - page: Principii generale
   permalink: '/govro-design/'
-
 - page: Principii de UX
-  permalink: '/govro-design/principii/ux'
-
+  permalink: '/govro-design/ux'
 - page: Principii de UI
-  permalink: '/govro-design/principii/ui'
+  permalink: '/govro-design/ui'
+
+nav_ux:
+  - page: Arhitectura Informației
+    permalink: '#arhitectura-informaiei-ia'
+  - page: User Experience Research
+    permalink: '#user-experience-research-ux-research'
+  - page: Interaction Design (IxD)
+    permalink: '#interaction-design-ixd'
+
+nav_ui:
+  - page: Așezare în pagină
+    permalink: '#aezare-n-pagin'
+  - page: Tipografie
+    permalink: '#tipografie'
+  - page: Culori
+    permalink: '#culori'
+  - page: Pictograme și imagini
+    permalink: '#pictograme-i-imagini'
+  - page: Date
+    permalink: '#date'
+  - page: Butoane
+    permalink: '#butoane'
+  - page: Formulare
+    permalink: '#formulare'
+  - page: Erori și validare
+    permalink: '#erori-i-validare'
+  - page: Antet și subsol
+    permalink: '#antet-i-subsol'
 
 nav_componente:
-- page: Așezarea în pagină
-  permalink: '#aezarea-n-pagin'
-
-- page: Tipografia
-  permalink: '#tipografia'
-
-- page: Butoanele
-  permalink: '#butoanele'
-
-- page: Formularele
-  permalink: '#formularele'
-
-- page: Navigația
-  permalink: '#navigaia'
-
-- page: Alertele și notificările
-  permalink: '#alertele-i-notificrile'
-
+- page: Așezare în pagină
+  permalink: '#aezare-n-pagin'
+- page: Tipografie
+  permalink: '#tipografie'
+- page: Butoane
+  permalink: '#butoane'
+- page: Formulare
+  permalink: '#formulare'
+- page: Navigație
+  permalink: '#navigaie'
+- page: Alerte și notificări
+  permalink: '#alerte-i-notificri'
 - page: Starea implicită
   permalink: '#starea-implicit'
-
 - page: Utilitare
   permalink: '#utilitare'
-
 - page: Șabloane
   permalink: '#abloane'
 
 nav_utilizare:
 - page: Pentru dezvoltatori
   permalink: '#pentru-dezvoltatori'
-
 - page: Pentru designeri
   permalink: '#pentru-designeri'
 

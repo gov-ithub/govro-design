@@ -11,11 +11,24 @@ layout: default
 				{% assign nav = site.nav_componente %}
 			{% elsif page.title == "Utilizare" %}
 				{% assign nav = site.nav_utilizare %}
+			{% elsif page.title == "Principii de UX" %}
+				{% assign nav = site.nav_ux %}
+			{% elsif page.title == "Principii de UI" %}
+				{% assign nav = site.nav_ui %}
 			{% else %}
 				{% assign nav = site.nav_principii %}
 			{% endif %}
 			{% for n in nav %}
-			    <li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
+			    <li>
+						<a href="{{ n.permalink }}">{{ n.page }}</a>
+						{% if n.subpages %}
+							<ul class="nav">
+							{% for sn in n.subpages %}
+								<li><a href="{{ sn.sublink }}">{{ sn.subpage }}</a></li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+					</li>
 			{% endfor %}
 			</ul>
 		</nav>

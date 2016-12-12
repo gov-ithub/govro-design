@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Principii de UX
-permalink: /principii/ux/
+permalink: /ux/
 ---
 
 ## Ce este "User Experience"?
@@ -129,21 +129,28 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 
 ### 1.6 Cum creezi o bună arhitectură a informației (checklist)
-- [ ] pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
+<input type="checkbox"> pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
   * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
   * scopurile website-ului
   * funcțiile necesare website-ului
-- [ ] pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+
+<input type="checkbox"> pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
  * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
  * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
-- [ ] pasul 3: Definește ariile de conținut ale website-ului:
+
+<input type="checkbox"> pasul 3: Definește ariile de conținut ale website-ului:
  * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
  * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
-- [ ] pasul 4: Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
-- [ ] pasul 5: Creează site map-ul website-ului și testează-l pe utilizatori finali.
-- [ ] pasul 6: Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
-- [ ] pasul 7: Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
-- [ ] pasul 8: Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
+
+<input type="checkbox"> pasul 4: Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
+
+<input type="checkbox"> pasul 5: Creează site map-ul website-ului și testează-l pe utilizatori finali.
+
+<input type="checkbox"> pasul 6: Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
+
+<input type="checkbox"> pasul 7: Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
+
+<input type="checkbox"> pasul 8: Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
 [5]
 
 
@@ -154,11 +161,11 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * ajută echipa de dezvoltare să nu proiecteze pentru un singur tip de utilizatori (ei înșiși), ci să descopere principalele tipuri de public-țință ale unui proiect web
 * confirmă sau infirmă presupunerile pe care echipa de dezvoltare le are în privința utilizatorilor finali ai unui website (aplicație)
 * ajută echipa de dezvoltare să identifice nevoile, motivațiile, scopurile și modelele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model)) ale utilizatorilor finali
-* găsește punctele comune ale diferitelor tipuri de public-țintă 
+* găsește punctele comune ale diferitelor tipuri de public-țintă
 * reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
 
 **Când trebuie realizat UX Research-ul?**
-* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc 
+* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc
 * de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
 * după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
@@ -189,7 +196,7 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
  * definește un utilizator specific pentru produsul care trebuie proiectat
  * lucrează în echipe de două persoane [11]
- 
+
 * _Usability_: gradul în care un software poate fi folosit de utilizatori specifici, raportat la:
  * eficiența, flexibilitatea si robustețea software-ului
  * abilitatea utilizatorilor de a învăța acel software
@@ -200,14 +207,14 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
  * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
  * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
- * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11] 
- 
-* _Cognitive Psychology_: studiază felul în care mintea utilizatorului acționează: 
+ * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11]
+
+* _Cognitive Psychology_: studiază felul în care mintea utilizatorului acționează:
  * modele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model))
  * metafore de interfață (folosirea acțiunilor cunoscute cu scopul de a descoperi noi acțiuni posibile în acel software); de exemplu, iconița _Trash_ (_Recycle bin_) face analogie cu un coș de gunoi real
  * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance)) [11]
 
-* _Personas_: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2 
+* _Personas_: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2
 
 * _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
  * iconițe dinamice
@@ -241,4 +248,3 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
 12. [Usability, Wikipedia](https://en.wikipedia.org/wiki/Usability)
 13. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
-

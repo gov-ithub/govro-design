@@ -6,10 +6,10 @@ permalink: /componente/
 
 În această pagină vor fi listate componentele disponibile și modul de utilizare a acestora.
 
-## Așezarea în pagină
+## Așezare în pagină
 Așezarea în pagina include containerele de bază și un sistem de așezare bazat pe linii și coloane.
 
-### Containerul
+### Container
 Centrează conținutul paginii cu un container.
 
 ``` html
@@ -34,7 +34,7 @@ Grila este una standard prin care adaugi rânduri cu coloane, fiecare coloană a
 </div>
 ```
 
-## Tipografia
+## Tipografie
 
 ### Titluri
 <div class="example">
@@ -126,7 +126,7 @@ Grila este una standard prin care adaugi rânduri cu coloane, fiecare coloană a
 </ol>
 ```
 
-## Butoanele
+## Butoane
 Butoanele sunt folosite pentru **acțiuni** în formulare și acțiuni primare în pagină, iar legăturile din text sunt folosite pentru **destinații** sau pentru a ajunge de la o pagină la alta.
 
 <div class="example">
@@ -138,7 +138,7 @@ Butoanele sunt folosite pentru **acțiuni** în formulare și acțiuni primare �
 <a class="btn btn-default" href="#" role="button">Buton link</a>
 ```
 
-### Dimensiunea butoanelor
+### Dimensiune butoane
 <div class="example">
   <button class="btn btn-default" type="button">Buton</button>
   <button class="btn btn-default btn-sm" type="button">Buton mic</button>
@@ -208,7 +208,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 </div>
 ```
 
-## Formularele
+## Formulare
 
 ### Input
 <div class="example">
@@ -391,7 +391,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 </div>
 ```
 
-## Navigația
+## Navigație
 
 ### Navigația principală
 <div class="example">
@@ -520,7 +520,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 </ol>
 ```
 
-## Alertele și notificările
+## Alerte și notificări
 <div class="example">
 <div class="alert alert-success" role="alert">Mesaj de tip succes</div>
 <div class="alert alert-info" role="alert">Mesaj de tip informare</div>
