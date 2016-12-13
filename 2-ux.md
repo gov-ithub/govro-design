@@ -205,13 +205,27 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * paleta de culori
  * așezarea în pagină a elementelor [12]
 
-**Ce trebuie să livreze un _Interaction designer_?**
-* strategia de design: _pentru cine se proiectează acel software_ și _care sunt scopurile utilizatorilor_ (un UX Researcher poate livra de asemenea aceste informații)
-* wireframes pentru principalele interacțiuni posibile în acel software
-* prototipuri pentru acel software:
- * construite pe hârtie
- * construite în unelte specializate (Axure, Invision, Balsamiq etc)
- * în format web (HTML, CSS) [11]
+**Cum proiectezi pentru interacțiune? (checklist)** 
+- [ ] definește modul în care utilizatorii pot interacționa cu interfața:
+  * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
+  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs? 
+- [ ] oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
+  * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
+  * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
+- [ ] anticipează și diminuează erorile:
+  * Există constrângeri puse în interfață astfel încât erorile sa fie prevenite?
+  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare? 
+- [ ] ia în considerare sistemul de feedback și timpul de răspuns:
+  * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
+  * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
+- [ ] gândește-te strategic la fiecare element din interfață:
+  * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
+  * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
+  * Sunt folosite standardele actuale?
+- [ ] simplifică interfața pentru a fi mai rapidă de învățat:
+  * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
+  * Este partea care ține de utilizator simplificată la maxim?
+  * Sunt folosite în interfață formate cunoscute? [13]
 
 
 ## Bibliografie
@@ -228,4 +242,5 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 10. [What is interaction design?, The Interaction Design Association](http://ixda.org/ixda-global/about-history/)
 11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
 12. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
+13. [Interaction Design Basics](https://www.usability.gov/what-and-why/interaction-design.html)
 
