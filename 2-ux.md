@@ -213,7 +213,7 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
   * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
   * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
 - [ ] anticipează și diminuează erorile:
-  * Există constrângeri puse în interfață astfel încât erorile sa fie prevenite?
+  * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
   * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare? 
 - [ ] ia în considerare sistemul de feedback și timpul de răspuns:
   * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
