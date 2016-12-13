@@ -189,11 +189,6 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
  * definește un utilizator specific pentru produsul care trebuie proiectat
  * lucrează în echipe de două persoane [11]
- 
-* _Usability_: gradul în care un software poate fi folosit de utilizatori specifici, raportat la:
- * eficiența, flexibilitatea si robustețea software-ului
- * abilitatea utilizatorilor de a învăța acel software
- * satisfacția utilizatorilor după folosirea acelui software [11, 12]
 
 * _The 5 Dimensions_:
  * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
@@ -201,13 +196,6 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
  * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
  * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11] 
- 
-* _Cognitive Psychology_: studiază felul în care mintea utilizatorului acționează: 
- * modele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model))
- * metafore de interfață (folosirea acțiunilor cunoscute cu scopul de a descoperi noi acțiuni posibile în acel software); de exemplu, iconița _Trash_ (_Recycle bin_) face analogie cu un coș de gunoi real
- * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance)) [11]
-
-* _Personas_: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2 
 
 * _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
  * iconițe dinamice
@@ -215,7 +203,7 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * sunete
  * fonturi
  * paleta de culori
- * așezarea în pagină a elementelor [13]
+ * așezarea în pagină a elementelor [12]
 
 **Ce trebuie să livreze un _Interaction designer_?**
 * strategia de design: _pentru cine se proiectează acel software_ și _care sunt scopurile utilizatorilor_ (un UX Researcher poate livra de asemenea aceste informații)
@@ -239,6 +227,5 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 9. [Web analytics, Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 10. [What is interaction design?, The Interaction Design Association](http://ixda.org/ixda-global/about-history/)
 11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
-12. [Usability, Wikipedia](https://en.wikipedia.org/wiki/Usability)
-13. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
+12. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
 
