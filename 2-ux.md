@@ -56,9 +56,9 @@ Arhitectura Informației are 5 mari componente [4]:
 * Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
 
 ### 1.1 Tipuri de sisteme organizaționale
-* alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
-* cronologic
-* geografic
+* alfabetice (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
+* cronologice
+* geografice
 * după subiect (_topic_)
 * după activitate (_task_)
 * după auditoriu (tipuri de utilizatori)
