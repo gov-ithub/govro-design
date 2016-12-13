@@ -74,12 +74,12 @@ Arhitectura Informației are 5 mari componente [4]:
 * iconițe (etichete vizuale).
 
 **Cum creezi etichete eficiente? (checklist)**
-- [ ] analizând conținutul website-ului
-- [ ] cerând autorilor de conținut de pe website să propună etichete
-- [ ] cerând sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
-- [ ] folosind exerciții de _[card sorting](https://en.wikipedia.org/wiki/Card_sorting)_
-- [ ] analizând _search log-urile_ de pe website (din aplicație)
-- [ ] analizând _tag-urile_ generate de utilizatori. [4]
+- [ ] analizează conținutul website-ului
+- [ ] cere autorilor de conținut (_content writers_) de pe website să propună etichete
+- [ ] cere sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
+- [ ] folosește exerciții de _[card sorting](https://en.wikipedia.org/wiki/Card_sorting)_
+- [ ] analizează _search log-urile_ de pe website (din aplicație)
+- [ ] analizează _tag-urile_ generate de utilizatori. [4]
 
 ### 1.3 Tipuri de sisteme de navigare
 * navigare globală (meniu global): unde mă aflu în cadrul website-ului?
