@@ -154,19 +154,19 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 <input type="checkbox"> Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
 
- * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
- * scopurile website-ului
- * funcțiile necesare website-ului
+  * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
+  * scopurile website-ului
+  * funcțiile necesare website-ului
 
 <input type="checkbox"> Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
 
- * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
- * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
+  * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
+  * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
 
 <input type="checkbox"> Definește ariile de conținut ale website-ului:
 
- * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
- * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
+  * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
+  * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
 
 <input type="checkbox"> Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
 
@@ -223,61 +223,61 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 **Cele mai comune metodologii de IxD:**
 
 * _Goal-oriented design_: design-ul unui website (aplicație) trebuie să aibă ca prim scop rezolvarea problemelor utilizatorilor (satisfacerea unor nevoi și dorințe specifice); dogme specifice acestei metodologii:
- * proiectează mai întâi, programează după aceea
- * separă responsabilitatea de a proiecta de responsabilitatea de a programa
- * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
- * definește un utilizator specific pentru produsul care trebuie proiectat
- * lucrează în echipe de două persoane [11]
+  * proiectează mai întâi, programează după aceea
+  * separă responsabilitatea de a proiecta de responsabilitatea de a programa
+  * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
+  * definește un utilizator specific pentru produsul care trebuie proiectat
+  * lucrează în echipe de două persoane [11]
 
 * _The 5 Dimensions_:
- * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
- * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
- * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
- * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
- * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11]
+  * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
+  * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
+  * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
+  * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
+  * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11]
 
 * _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
- * iconițe dinamice
- * animații
- * sunete
- * fonturi
- * paleta de culori
- * așezarea în pagină a elementelor [12]
+  * iconițe dinamice
+  * animații
+  * sunete
+  * fonturi
+  * paleta de culori
+  * așezarea în pagină a elementelor [12]
 
 
 **Cum proiectezi pentru interacțiune? (checklist)**
 
 <input type="checkbox"> definește modul în care utilizatorii pot interacționa cu interfața:
 
- * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
- * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
+  * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
+  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
 
 <input type="checkbox"> oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
 
- * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
- * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
+  * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
+  * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
 
 <input type="checkbox"> anticipează și diminuează erorile:
 
- * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
- * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
+  * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
+  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
 
 <input type="checkbox"> ia în considerare sistemul de feedback și timpul de răspuns:
 
- * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
- * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
+  * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
+  * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
 
 <input type="checkbox"> gândește-te strategic la fiecare element din interfață:
 
- * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
- * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
- * Sunt folosite standardele actuale?
+  * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
+  * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
+  * Sunt folosite standardele actuale?
 
 <input type="checkbox"> simplifică interfața pentru a fi mai rapidă de învățat:
 
- * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
- * Este partea care ține de utilizator simplificată la maxim?
- * Sunt folosite în interfață formate cunoscute? [13]
+  * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
+  * Este partea care ține de utilizator simplificată la maxim?
+  * Sunt folosite în interfață formate cunoscute? [13]
 
 
 ## Bibliografie
