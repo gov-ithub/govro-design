@@ -151,9 +151,9 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 ### 1.6 Cum creezi o bună arhitectură a informației (checklist)
 
 <input type="checkbox"> pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
-  * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
-  * scopurile website-ului
-  * funcțiile necesare website-ului
+ * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
+ * scopurile website-ului
+ * funcțiile necesare website-ului
 
 <input type="checkbox"> pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
  * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
@@ -241,36 +241,30 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 **Cum proiectezi pentru interacțiune? (checklist)**
 
 <input type="checkbox"> definește modul în care utilizatorii pot interacționa cu interfața:
-
-  * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
-  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
+ * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
+ * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
 
 <input type="checkbox"> oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
-
-  * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
-  * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
+ * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
+ * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
 
 <input type="checkbox"> anticipează și diminuează erorile:
-
-  * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
-  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
+ * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
+ * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
 
 <input type="checkbox"> ia în considerare sistemul de feedback și timpul de răspuns:
-
-  * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
-  * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
+ * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
+ * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
 
 <input type="checkbox"> gândește-te strategic la fiecare element din interfață:
-
-  * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
-  * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
-  * Sunt folosite standardele actuale?
+ * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
+ * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
+ * Sunt folosite standardele actuale?
 
 <input type="checkbox"> simplifică interfața pentru a fi mai rapidă de învățat:
-
-  * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
-  * Este partea care ține de utilizator simplificată la maxim?
-  * Sunt folosite în interfață formate cunoscute? [13]
+ * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
+ * Este partea care ține de utilizator simplificată la maxim?
+ * Sunt folosite în interfață formate cunoscute? [13]
 
 
 ## Bibliografie
