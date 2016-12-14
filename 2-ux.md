@@ -106,15 +106,15 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 
 **Cum proiectezi o interfață de căutare bună? (checklist)**
 
-- [ ] ia în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
-- [ ] ia în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
-- [ ] ia în calcul tipul de informație căutat (căutare de pagini, căutare pe texte, căutare pe anumite formate etc)
-- [ ] ia în calcul cantitatea de informație căutată (câte rezultate de căutare să afișăm și în ce ordine, cum filtrăm rezultatele căutării pentru a restrânge căutarea la ceva mai specific etc).
-- [ ] afișează în pagina de _rezultate pentru căutare_ care au fost cuvintele care au definit căutarea (_search query_)
-- [ ] explică de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
-- [ ] explică utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
-- [ ] integrează căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
-- [ ] marchează căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea
+<input type="checkbox"> ia în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
+<input type="checkbox"> ia în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
+<input type="checkbox"> ia în calcul tipul de informație căutat (căutare de pagini, căutare pe texte, căutare pe anumite formate etc)
+<input type="checkbox"> ia în calcul cantitatea de informație căutată (câte rezultate de căutare să afișăm și în ce ordine, cum filtrăm rezultatele căutării pentru a restrânge căutarea la ceva mai specific etc).
+<input type="checkbox"> afișează în pagina de _rezultate pentru căutare_ care au fost cuvintele care au definit căutarea (_search query_)
+<input type="checkbox"> explică de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
+<input type="checkbox"> explică utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
+<input type="checkbox"> integrează căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
+<input type="checkbox"> marchează căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea
 [paginii 404](https://en.wikipedia.org/wiki/HTTP_404) pentru paginile căutate care nu există pe website). [4]
 
 
@@ -213,23 +213,23 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * așezarea în pagină a elementelor [12]
 
 **Cum proiectezi pentru interacțiune? (checklist)** 
-- [ ] definește modul în care utilizatorii pot interacționa cu interfața:
+<input type="checkbox"> definește modul în care utilizatorii pot interacționa cu interfața:
   * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
   * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs? 
-- [ ] oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
+<input type="checkbox"> oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
   * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
   * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
-- [ ] anticipează și diminuează erorile:
+<input type="checkbox"> anticipează și diminuează erorile:
   * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
   * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare? 
-- [ ] ia în considerare sistemul de feedback și timpul de răspuns:
+<input type="checkbox"> ia în considerare sistemul de feedback și timpul de răspuns:
   * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
   * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
-- [ ] gândește-te strategic la fiecare element din interfață:
+<input type="checkbox"> gândește-te strategic la fiecare element din interfață:
   * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
   * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
   * Sunt folosite standardele actuale?
-- [ ] simplifică interfața pentru a fi mai rapidă de învățat:
+<input type="checkbox"> simplifică interfața pentru a fi mai rapidă de învățat:
   * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
   * Este partea care ține de utilizator simplificată la maxim?
   * Sunt folosite în interfață formate cunoscute? [13]
