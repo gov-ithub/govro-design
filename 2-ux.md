@@ -101,8 +101,9 @@ Arhitectura Informației are 5 mari componente [4]:
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
 Navigarea globală poate fi:
-* _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul [nytimes.com](http://www.nytimes.com/))
-* _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul [amazon.com](https://www.amazon.com/)).
+
+ * _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul [nytimes.com](http://www.nytimes.com/))
+ * _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul [amazon.com](https://www.amazon.com/)).
 
 Ambele tipuri de navigare globală vin cu [avantaje și dezavantaje](https://www.nngroup.com/articles/flat-vs-deep-hierarchy/), prin urmare natura website-ului va determina tipul de navigare globală.
 
@@ -152,15 +153,18 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 ### 1.6 Cum creezi o bună arhitectură a informației (checklist)
 
 <input type="checkbox"> pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
+
  * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
  * scopurile website-ului
  * funcțiile necesare website-ului
 
 <input type="checkbox"> pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+
  * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
  * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
 
 <input type="checkbox"> pasul 3: Definește ariile de conținut ale website-ului:
+
  * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
  * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
 
