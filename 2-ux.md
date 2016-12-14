@@ -73,7 +73,9 @@ Arhitectura Informației are 5 mari componente [4]:
 * termeni de index (_keywords_, _tags_ etc)
 * iconițe (etichete vizuale).
 
+
 **Cum creezi etichete eficiente? (checklist)**
+
 <input type="checkbox"> analizează conținutul website-ului
 
 <input type="checkbox"> cere autorilor de conținut (_content writers_) de pe website să propună etichete
@@ -110,7 +112,9 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului
 * utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
 
+
 **Cum proiectezi o interfață de căutare bună? (checklist)**
+
 <input type="checkbox"> ia în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
 
 <input type="checkbox"> ia în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
@@ -142,6 +146,7 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 
 ### 1.6 Cum creezi o bună arhitectură a informației (checklist)
+
 <input type="checkbox"> pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
   * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
   * scopurile website-ului
@@ -225,7 +230,9 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * paleta de culori
  * așezarea în pagină a elementelor [12]
 
+
 **Cum proiectezi pentru interacțiune? (checklist)** 
+
 <input type="checkbox"> definește modul în care utilizatorii pot interacționa cu interfața:
   * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
   * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs? 
