@@ -49,6 +49,7 @@ Este arta și știința de a organiza informația pe un website, un intranet, o 
 O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de _orientarea în lumea reală_ (într-un supermarket, o gară, un spital etc) sau de _orientarea în lumea digitală_ (un website, o aplicație software). [3]
 
 Arhitectura Informației are 5 mari componente [4]:
+
 * Sisteme organizaționale: modul în care organizăm informația pe un website
 * Sisteme de etichetare (_labels_): modul în care reprezentăm informația
 * Sisteme de navigare: modul în care putem naviga într-un website
@@ -56,6 +57,7 @@ Arhitectura Informației are 5 mari componente [4]:
 * Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
 
 ### 1.1 Tipuri de sisteme organizaționale
+
 * alfabetice (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
 * cronologice
 * geografice
@@ -67,6 +69,7 @@ Arhitectura Informației are 5 mari componente [4]:
 * o combinație între două sau mai multe moduri de mai sus. [4]
 
 ### 1.2 Tipuri de etichetare (_labels_)
+
 * link-uri contextuale (_hyperlinks_)
 * titluri de paragrafe (_headings_)
 * opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
@@ -176,6 +179,7 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 Este acea ramură din _User Experience Design_ care studiază impactul pe care un design anume îl are asupra unui public-țintă al proiectului web. [6]
 
 **Ce scopuri are UX Research-ul?**
+
 * ajută echipa de dezvoltare să nu proiecteze pentru un singur tip de utilizatori (ei înșiși), ci să descopere principalele tipuri de public-țință ale unui proiect web
 * confirmă sau infirmă presupunerile pe care echipa de dezvoltare le are în privința utilizatorilor finali ai unui website (aplicație)
 * ajută echipa de dezvoltare să identifice nevoile, motivațiile, scopurile și modelele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model)) ale utilizatorilor finali
@@ -183,11 +187,13 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
 
 **Când trebuie realizat UX Research-ul?**
+
 * înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc
 * de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
 * după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
 **Principalele metode de UX Research**:
+
 * _cantitative_ (metode prin care putem _număra_ câți utilizatori reacționează pozitiv la design-ul testat):
   * timpul necesar realizării unei activități-cheie de pe website (secunde)
   * rata de succes pentru o activitate-cheie de pe website (procente din numărul total de participanți la teste cu utilizatorii)
@@ -208,6 +214,7 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 _Interaction Design-ul_ (IxD) este acea disciplină care definește structura și comportamentul sistemelor digitale interactive, cu scopul de a facilita relația dintre utilizatori și acestea, fie că este vorba de calculatoare, telefoane mobile sau aparate electronice (ATM-uri, tonomate de cafea etc). [10,11]
 
 **Cele mai comune metodologii de IxD:**
+
 * _Goal-oriented design_: design-ul unui website (aplicație) trebuie să aibă ca prim scop rezolvarea problemelor utilizatorilor (satisfacerea unor nevoi și dorințe specifice); dogme specifice acestei metodologii:
  * proiectează mai întâi, programează după aceea
  * separă responsabilitatea de a proiecta de responsabilitatea de a programa
@@ -231,11 +238,11 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * așezarea în pagină a elementelor [12]
 
 
-**Cum proiectezi pentru interacțiune? (checklist)** 
+**Cum proiectezi pentru interacțiune? (checklist)**
 
 <input type="checkbox"> definește modul în care utilizatorii pot interacționa cu interfața:
   * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
-  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs? 
+  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
 
 <input type="checkbox"> oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
   * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
@@ -243,7 +250,7 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 
 <input type="checkbox"> anticipează și diminuează erorile:
   * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
-  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare? 
+  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
 
 <input type="checkbox"> ia în considerare sistemul de feedback și timpul de răspuns:
   * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
