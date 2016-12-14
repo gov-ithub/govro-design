@@ -21,7 +21,7 @@ Un _User Experience Designer_ folosește următoarele metode și discipline:
  * _prototyping_
  * _interface design_
  * _content strategy_
- * psihologie
+ * psihologie. [1]
 
 
 **Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _user experience research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
@@ -45,17 +45,17 @@ O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele
 Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **arhitectura informației** (_Information Architecture - IA_) pentru acel website (aplicație).
 
 ## 1. Arhitectura Informației (IA)
-Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
+Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability). [2]
 
 O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de _orientarea în lumea reală_ (într-un supermarket, o gară, un spital etc) sau de _orientarea în lumea digitală_ (un website, o aplicație software). [3]
 
-Arhitectura Informației are 5 mari componente [4]:
+Arhitectura Informației are 5 mari componente:
 
 * Sisteme organizaționale: modul în care organizăm informația pe un website
 * Sisteme de etichetare (_labels_): modul în care reprezentăm informația
 * Sisteme de navigare: modul în care putem naviga într-un website
 * Sisteme de căutare: modul în care căutăm informația pe un website
-* Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
+* Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului. [4]
 
 ### 1.1 Tipuri de sisteme organizaționale
 
@@ -75,7 +75,7 @@ Arhitectura Informației are 5 mari componente [4]:
 * titluri de paragrafe (_headings_)
 * opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
 * termeni de index (_keywords_, _tags_ etc)
-* iconițe (etichete vizuale).
+* iconițe (etichete vizuale). [4]
 
 
 **Cum creezi etichete eficiente? (checklist)**
@@ -100,7 +100,7 @@ Arhitectura Informației are 5 mari componente [4]:
 * navigări suplimentare: _site map-uri_, indecși de website, tutoriale pentru o activitate anume de pe website etc
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
-Navigarea globală poate fi:
+**Navigarea globală poate fi:**
 
 * _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul [nytimes.com](http://www.nytimes.com/))
 * _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul [amazon.com](https://www.amazon.com/)).
@@ -115,7 +115,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * website-ul este foarte fragmentat (de exemplu Amazon.com, Wikipedia.com)
 * căutarea este un mod de a învăța nevoile utilizatorilor de pe website (vezi analiza _search log-urilor_ din paragraful anterior)
 * utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului
-* utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
+* utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor. [4]
 
 
 **Cum proiectezi o interfață de căutare bună? (checklist)**
@@ -152,31 +152,31 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 ### 1.6 Cum creezi o bună arhitectură a informației (checklist)
 
-<input type="checkbox"> pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
+<input type="checkbox"> Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
 
- * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
- * scopurile website-ului
- * funcțiile necesare website-ului
+  * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
+  * scopurile website-ului
+  * funcțiile necesare website-ului
 
-<input type="checkbox"> pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+<input type="checkbox"> Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
 
- * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
- * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
+  * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
+  * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
 
-<input type="checkbox"> pasul 3: Definește ariile de conținut ale website-ului:
+<input type="checkbox"> Definește ariile de conținut ale website-ului:
 
- * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
- * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
+  * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
+  * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
 
-<input type="checkbox"> pasul 4: Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
+<input type="checkbox"> Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
 
-<input type="checkbox"> pasul 5: Creează site map-ul website-ului și testează-l pe utilizatori finali.
+<input type="checkbox"> Creează site map-ul website-ului și testează-l pe utilizatori finali.
 
-<input type="checkbox"> pasul 6: Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
+<input type="checkbox"> Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
 
-<input type="checkbox"> pasul 7: Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
+<input type="checkbox"> Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
 
-<input type="checkbox"> pasul 8: Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
+<input type="checkbox"> Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
 [5]
 
 
@@ -189,13 +189,15 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * confirmă sau infirmă presupunerile pe care echipa de dezvoltare le are în privința utilizatorilor finali ai unui website (aplicație)
 * ajută echipa de dezvoltare să identifice nevoile, motivațiile, scopurile și modelele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model)) ale utilizatorilor finali
 * găsește punctele comune ale diferitelor tipuri de public-țintă
-* reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
+* reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri). [6,7,8]
 
-**Când trebuie realizat UX Research-ul?**
+**Când trebuie realizat UX Research-ul? (checklist)**
 
-* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc
-* de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
-* după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
+<input type="checkbox"> înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc
+
+<input type="checkbox"> de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), [card sorting](https://en.wikipedia.org/wiki/Card_sorting) etc
+
+<input type="checkbox"> după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
 **Principalele metode de UX Research**:
 
@@ -221,61 +223,61 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 **Cele mai comune metodologii de IxD:**
 
 * _Goal-oriented design_: design-ul unui website (aplicație) trebuie să aibă ca prim scop rezolvarea problemelor utilizatorilor (satisfacerea unor nevoi și dorințe specifice); dogme specifice acestei metodologii:
- * proiectează mai întâi, programează după aceea
- * separă responsabilitatea de a proiecta de responsabilitatea de a programa
- * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
- * definește un utilizator specific pentru produsul care trebuie proiectat
- * lucrează în echipe de două persoane [11]
+  * proiectează mai întâi, programează după aceea
+  * separă responsabilitatea de a proiecta de responsabilitatea de a programa
+  * calitatea produsului livrat și satisfacția utilizatorilor cade în sarcina designerilor
+  * definește un utilizator specific pentru produsul care trebuie proiectat
+  * lucrează în echipe de două persoane [11]
 
 * _The 5 Dimensions_:
- * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
- * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
- * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
- * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
- * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11]
+  * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
+  * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
+  * 3D: obiectele fizice sau spațiul se referă la partea hardware a sistemului informatic (mouse, keyboard, cameră web, telefon mobil etc)
+  * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
+  * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11]
 
 * _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
- * iconițe dinamice
- * animații
- * sunete
- * fonturi
- * paleta de culori
- * așezarea în pagină a elementelor [12]
+  * iconițe dinamice
+  * animații
+  * sunete
+  * fonturi
+  * paleta de culori
+  * așezarea în pagină a elementelor [12]
 
 
 **Cum proiectezi pentru interacțiune? (checklist)**
 
 <input type="checkbox"> definește modul în care utilizatorii pot interacționa cu interfața:
 
- * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
- * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
+  * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
+  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs?
 
 <input type="checkbox"> oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
 
- * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
- * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
+  * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
+  * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
 
 <input type="checkbox"> anticipează și diminuează erorile:
 
- * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
- * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
+  * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
+  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare?
 
 <input type="checkbox"> ia în considerare sistemul de feedback și timpul de răspuns:
 
- * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
- * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
+  * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
+  * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
 
 <input type="checkbox"> gândește-te strategic la fiecare element din interfață:
 
- * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
- * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
- * Sunt folosite standardele actuale?
+  * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
+  * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
+  * Sunt folosite standardele actuale?
 
 <input type="checkbox"> simplifică interfața pentru a fi mai rapidă de învățat:
 
- * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
- * Este partea care ține de utilizator simplificată la maxim?
- * Sunt folosite în interfață formate cunoscute? [13]
+  * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
+  * Este partea care ține de utilizator simplificată la maxim?
+  * Sunt folosite în interfață formate cunoscute? [13]
 
 
 ## Bibliografie
