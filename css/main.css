@@ -494,7 +494,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 	.nav-side li:last-child{
 		border-bottom: 0;
 	}
-	.nav-side li.active{
+	.nav-side li.active a{
 		border-left: 3px solid;
 		color: #333;
 	}

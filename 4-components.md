@@ -176,15 +176,15 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 <div class="example">
 <p>
 <button class="btn btn-default" type="button" disabled>Buton dezactivat</button>
-<a class="btn btn-default disabled" href="#" role="button">Buton dezactivat</a>
+<a class="btn btn-default disabled" href="#" role="button">Link dezactivat</a>
 </p>
 <p>
-<button class="btn btn-primary" type="button" disabled>Buton dezactivat</button>
-<a class="btn btn-primary disabled" href="#" role="button">Buton dezactivat</a>
+<button class="btn btn-primary" type="button" disabled>Buton principal dezactivat</button>
+<a class="btn btn-primary disabled" href="#" role="button">Link principal dezactivat</a>
 </p>
 <p>
-<button class="btn btn-danger" type="button" disabled>Buton dezactivat</button>
-<a class="btn btn-danger disabled" href="#" role="button">Buton dezactivat</a>
+<button class="btn btn-danger" type="button" disabled>Buton periculos dezactivat</button>
+<a class="btn btn-danger disabled" href="#" role="button">Link periculos dezactivat</a>
 </p>
 </div>
 ``` html
@@ -195,16 +195,16 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 ### Grupuri de butoane
 <div class="example">
   <div class="btn-group">
-    <button class="btn btn-default" type="button">Buton</button>
-    <button class="btn btn-default" type="button">Buton</button>
-    <button class="btn btn-default" type="button">Buton</button>
+    <button class="btn btn-primary" type="button">Buton unu</button>
+    <button class="btn btn-primary" type="button">Buton doi</button>
+    <button class="btn btn-primary" type="button">Buton trei</button>
   </div>
 </div>
 ``` html
 <div class="btn-group">
-  <button class="btn btn-default" type="button">Buton</button>
-  <button class="btn btn-default" type="button">Buton</button>
-  <button class="btn btn-default" type="button">Buton</button>
+  <button class="btn btn-primary" type="button">Buton unu</button>
+  <button class="btn btn-primary" type="button">Buton doi</button>
+  <button class="btn btn-primary" type="button">Buton trei</button>
 </div>
 ```
 
@@ -522,10 +522,10 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 
 ## Alerte și notificări
 <div class="example">
-<div class="alert alert-success" role="alert">Mesaj de tip succes</div>
-<div class="alert alert-info" role="alert">Mesaj de tip informare</div>
-<div class="alert alert-warning" role="alert">Mesaj de tip avertisment</div>
-<div class="alert alert-danger" role="alert">Mesaj de tip eroare</div>
+<div class="alert alert-success alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button> Mesaj de tip succes</div>
+<div class="alert alert-info alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button> Mesaj de tip informare</div>
+<div class="alert alert-warning alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button> Mesaj de tip avertisment</div>
+<div class="alert alert-danger alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button> Mesaj de tip eroare</div>
 </div>
 ``` html
 <div class="alert alert-success" role="alert">Mesaj de tip succes</div>

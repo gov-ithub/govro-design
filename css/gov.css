@@ -1,0 +1,216 @@
+/*
+COLORS
+culori principale:
+light blue: #01acfd;
+blue: #004df3;
+dark blue: #0001ee;
+ink blue: #031169;
+mint: #37BC9B;
+yellow: #ffc10a;
+red: #f12948;
+black: #323233;
+dark grey: #868e96;
+grey: #ced4da;
+light grey: #f1f2f6;
+*/
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i|Work+Sans:400,500,700&subset=latin-ext');
+/* general selectors */
+body{
+	font-family: 'Work Sans', sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+}
+a{
+	color: #004df3;
+}
+a:focus, a:hover{
+	color: #37BC9B;
+}
+a:visited{
+	color: #01acfd;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Serif', serif;
+	color: #212529;
+}
+h1{
+	font-size: 46px;
+	line-height: 60px;
+}
+h2{
+	font-size: 40px;
+	line-height: 50px;
+}
+h3{
+	font-size: 34px;
+	line-height: 46px;
+}
+h4{
+	font-size: 28px;
+	line-height: 40px;
+}
+h5{
+	font-size: 26px;
+	line-height: 38px;
+}
+h6{
+	font-size: 24px;
+	line-height: 34px;
+}
+p{
+	font-size: 16px;
+	line-height: 22px;
+}
+ul, ol{
+	margin-left: 20px;
+}
+ol ol{
+	list-style-type: lower-alpha;
+}
+blockquote,q{
+	font-family: 'Noto Serif', serif;
+}
+blockquote footer{
+	font-family: 'Work Sans', sans-serif;
+	font-style: normal;
+}
+cite{
+	font-style: normal;
+}
+blockquote .small:before, blockquote footer:before, blockquote small:before{
+	display: block;
+}
+
+/* additional general selectors */
+.lead{
+	font-size: 18px;
+	line-height: 24px;
+}
+.note{
+	font-size: 14px;
+	font-size: 20px;
+}
+.panel{
+	display: block;
+	min-width: 100px;
+	min-height: 100px;
+	background: #f1f2f6;
+	border-radius: 3px;
+	box-shadow: 0px 2px 5px 0px rgba(0,0,0,.25);
+}
+
+/* header selectors */
+.navbar-brand{
+	height: 58px;
+	padding: 20px 15px;
+}
+.navbar-nav>li>a{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 18px;
+}
+
+/* form selectors */
+.form-control{
+	box-shadow: none;
+	/*border-color: #323233;*/
+	color: #868e96;
+	height: 42px;
+}
+input{
+
+}
+.alert{
+	border-radius: 2px;
+	border: none;
+}
+.alert-success{
+	color: #37BC9B;
+	background: #e4f8f3;
+}
+.alert-info{
+	color: #031169;
+	background: #e4ecfd;
+}
+.alert-warning{
+	color: #dca400;
+	background: #fef8e5;
+}
+.alert-danger{
+	color: #fd5a52;
+	background: #feedec;
+}
+.close{
+	opacity: 1;
+	font-size: 28px;
+	font-weight: 300;
+}
+.btn{
+	text-transform: uppercase;
+	border:none;
+	font-weight: 600;
+	padding: 10px 20px;
+	box-shadow: 0px 2px 15px 0px rgba(0,0,0,.25);
+}
+.btn-default{
+	color: #004df3;
+	box-shadow: none;
+	border: 1px solid #ccc;
+}
+.btn-default:hover{
+	color: #37BC9B;
+	background: #fff;
+}
+.btn:active,.btn:focus{
+	box-shadow: 0px 2px 5px 0px rgba(0,0,0,.25);
+}
+.btn-sm{
+	padding: 5px 10px;
+}
+.btn-primary{
+	background: #004df3;
+	border-color: #0001ee;
+}
+.btn-primary:hover,.btn-primary.focus, .btn-primary:focus,.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary,
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus,
+.btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover,
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover{
+	background: #37BC9B;
+	border-color: #31a98b;
+}
+.btn.disabled, .btn[disabled], fieldset[disabled] .btn, .btn-default.disabled.focus, .btn-default.disabled:focus, .btn-default.disabled:hover, .btn-default[disabled].focus, .btn-default[disabled]:focus, .btn-default[disabled]:hover, fieldset[disabled] .btn-default.focus, fieldset[disabled] .btn-default:focus, fieldset[disabled] .btn-default:hover,
+.btn-primary.disabled.focus, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled].focus, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:hover,
+.btn-danger.disabled.focus, .btn-danger.disabled:focus, .btn-danger.disabled:hover, .btn-danger[disabled].focus, .btn-danger[disabled]:focus, .btn-danger[disabled]:hover, fieldset[disabled] .btn-danger.focus, fieldset[disabled] .btn-danger:focus, fieldset[disabled] .btn-danger:hover{
+	color: #868e96;
+	background: #ced4da;
+	border-color: #ced4da;
+}
+.btn-group .btn{
+	margin-right: 2px;
+}
+.navbar-nav>li>.dropdown-menu{
+	border:none;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+	background: #fff;
+}
+.dropdown-menu>li>a{
+	padding: 10px 20px;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover,
+.nav>li>a:focus, .nav>li>a:hover{
+	color: #fff;
+	background: #37BC9B;
+}
+.nav>li>a{
+	text-shadow: none;
+}
+.nav-side li.active a{
+	border-left: 3px solid #37BC9B;
+}
+.nav-side li.active a{
+	color: #37BC9B;
+}
+.nav-side li.active a:hover{
+	color: #fff;
+}
