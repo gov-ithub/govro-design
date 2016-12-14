@@ -191,11 +191,11 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * găsește punctele comune ale diferitelor tipuri de public-țintă
 * reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri). [6,7,8]
 
-**Când trebuie realizat UX Research-ul?**
+**Când trebuie realizat UX Research-ul? (checklist)**
 
-* înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc
-* de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), card sorting etc
-* după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
+<input type="checkbox"> înainte de a începe proiectarea website-ului (aplicației), folosind cerințele de proiect de la beneficiarii indirecți ai proiectului, interviuri, chestionare, observații făcute pe utilizatorii curenți sau posibili ai proiectului, web analytics etc
+<input type="checkbox"> de-a lungul proiectării website-ului (aplicației), folosind teste de usability, teste cu utilizatorii, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), [card sorting](https://en.wikipedia.org/wiki/Card_sorting) etc
+<input type="checkbox"> după lansarea website-ului (aplicației), pentru a măsura satisfacția utilizatorilor și [nivelul de succes al proiectului](https://www.square2marketing.com/blog/6-metrics-every-successful-website-needs-to-track). [7]
 
 **Principalele metode de UX Research**:
 
