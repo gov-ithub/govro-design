@@ -21,7 +21,7 @@ Un _User Experience Designer_ folosește următoarele metode și discipline:
  * _prototyping_
  * _interface design_
  * _content strategy_
- * psihologie
+ * psihologie. [1]
 
 
 **Una din regulile de bază ale _User Experience Design-ului_ spune că [_You are not your user_](http://uxmyths.com/post/715988395/myth-you-are-like-your-users)**. Cu alte cuvinte, dacă într-un proiect web sărim peste etapa de _user experience research_ și pornim de la presupunerile pe care noi le avem despre utilizatori, atunci riscăm să construim un produs sau serviciu web pe placul și nevoile noastre (ale echipei de dezvoltare), nu pe placul și nevoile utilizatorilor finali ai acelui produs sau serviciu web.
@@ -45,17 +45,17 @@ O pagină web se poate numi "usable" dacă ea răspunde simultan la următoarele
 Răspunsul la aceste 3 întrebări îl aflăm (în primă etapă) dacă definim mai întâi **arhitectura informației** (_Information Architecture - IA_) pentru acel website (aplicație).
 
 ## 1. Arhitectura Informației (IA)
-Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability) [2].
+Este arta și știința de a organiza informația pe un website, un intranet, o comunitate online sau un produs software, cu scopul de a asigura partea de [usability](https://en.wikipedia.org/wiki/Usability) și [findability](https://en.wikipedia.org/wiki/Findability). [2]
 
 O bună Arhitectură a Informației ajută oamenii să înțeleagă mediul înconjurător și să găsească rapid ceea ce căutau, fie că este vorba de _orientarea în lumea reală_ (într-un supermarket, o gară, un spital etc) sau de _orientarea în lumea digitală_ (un website, o aplicație software). [3]
 
-Arhitectura Informației are 5 mari componente [4]:
+Arhitectura Informației are 5 mari componente:
 
 * Sisteme organizaționale: modul în care organizăm informația pe un website
 * Sisteme de etichetare (_labels_): modul în care reprezentăm informația
 * Sisteme de navigare: modul în care putem naviga într-un website
 * Sisteme de căutare: modul în care căutăm informația pe un website
-* Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
+* Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului. [4]
 
 ### 1.1 Tipuri de sisteme organizaționale
 
@@ -75,7 +75,7 @@ Arhitectura Informației are 5 mari componente [4]:
 * titluri de paragrafe (_headings_)
 * opțiuni de navigare (exemple de etichete standard: _Site map_, Contact, FAQ, _Help_ etc)
 * termeni de index (_keywords_, _tags_ etc)
-* iconițe (etichete vizuale).
+* iconițe (etichete vizuale). [4]
 
 
 **Cum creezi etichete eficiente? (checklist)**
@@ -115,7 +115,7 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * website-ul este foarte fragmentat (de exemplu Amazon.com, Wikipedia.com)
 * căutarea este un mod de a învăța nevoile utilizatorilor de pe website (vezi analiza _search log-urilor_ din paragraful anterior)
 * utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului
-* utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
+* utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor. [4]
 
 
 **Cum proiectezi o interfață de căutare bună? (checklist)**
@@ -189,7 +189,7 @@ Este acea ramură din _User Experience Design_ care studiază impactul pe care u
 * confirmă sau infirmă presupunerile pe care echipa de dezvoltare le are în privința utilizatorilor finali ai unui website (aplicație)
 * ajută echipa de dezvoltare să identifice nevoile, motivațiile, scopurile și modelele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model)) ale utilizatorilor finali
 * găsește punctele comune ale diferitelor tipuri de public-țintă
-* reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri) [6,7,8]
+* reduce costurile de dezvoltare web necesare atingerii succesului unui proiect web, prin luarea de decizii de design _informate_ (conforme cu realitatea de pe teren, nu bazate pe presupuneri). [6,7,8]
 
 **Când trebuie realizat UX Research-ul?**
 
