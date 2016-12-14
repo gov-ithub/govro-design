@@ -56,9 +56,9 @@ Arhitectura Informației are 5 mari componente [4]:
 * Tezaure, vocabulare controlate, metadata: componente-suport pentru navigare și căutare, _invizibile_ utilizatorului.
 
 ### 1.1 Tipuri de sisteme organizaționale
-* alfabetic (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
-* cronologic
-* geografic
+* alfabetice (de evitat în [majoritatea cazurilor](https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/), în favoarea tipurilor de mai jos)
+* cronologice
+* geografice
 * după subiect (_topic_)
 * după activitate (_task_)
 * după auditoriu (tipuri de utilizatori)
@@ -73,13 +73,13 @@ Arhitectura Informației are 5 mari componente [4]:
 * termeni de index (_keywords_, _tags_ etc)
 * iconițe (etichete vizuale).
 
-**Cum putem crea etichete eficiente?**
-* analizând conținutul website-ului
-* cerând autorilor de conținut de pe website să propună etichete
-* cerând sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
-* folosind exerciții de _[card sorting](https://en.wikipedia.org/wiki/Card_sorting)_
-* analizând _search log-urile_ de pe website (din aplicație)
-* analizând _tag-urile_ generate de utilizatori. [4]
+**Cum creezi etichete eficiente? (checklist)**
+- [ ] analizează conținutul website-ului
+- [ ] cere autorilor de conținut (_content writers_) de pe website să propună etichete
+- [ ] cere sugestii de la utilizatorii avansați ai website-ului (aplicației) sau de la experții în acel domeniu
+- [ ] folosește exerciții de _[card sorting](https://en.wikipedia.org/wiki/Card_sorting)_
+- [ ] analizează _search log-urile_ de pe website (din aplicație)
+- [ ] analizează _tag-urile_ generate de utilizatori. [4]
 
 ### 1.3 Tipuri de sisteme de navigare
 * navigare globală (meniu global): unde mă aflu în cadrul website-ului?
@@ -104,17 +104,17 @@ Este recomandat să oferi o funcție de _căutare în website_ dacă:
 * utilizatorii se așteaptă să găsească o astfel de funcție pe website, prin natura website-ului
 * utilizatorii nu sunt dispuși să folosească navigarea pe website, deoarece nu se potrivește nevoilor lor.
 
-**Pentru a proiecta o interfață de căutare bună, este necesar să:**
+**Cum proiectezi o interfață de căutare bună? (checklist)**
 
-* iei în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
-* iei în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
-* iei în calcul tipul de informație căutat (căutare de pagini, căutare pe texte, căutare pe anumite formate etc)
-* iei în calcul cantitatea de informație căutată (câte rezultate de căutare să afișăm și în ce ordine, cum filtrăm rezultatele căutării pentru a restrânge căutarea la ceva mai specific etc).
-* afișezi în pagina de _rezultate pentru căutare_ care au fost cuvintele care au definit căutarea (_search query_)
-* explici de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
-* explici utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
-* integrezi căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
-* marchezi căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea
+- [ ] ia în calcul nivelul de expertiză și motivare al utilizatorilor care caută pe website (de exemplu, "utilizator începător" versus "utilizator avansat")
+- [ ] ia în calcul tipul de nevoie de informare (căutare avansată sau căutare simplă?)
+- [ ] ia în calcul tipul de informație căutat (căutare de pagini, căutare pe texte, căutare pe anumite formate etc)
+- [ ] ia în calcul cantitatea de informație căutată (câte rezultate de căutare să afișăm și în ce ordine, cum filtrăm rezultatele căutării pentru a restrânge căutarea la ceva mai specific etc).
+- [ ] afișează în pagina de _rezultate pentru căutare_ care au fost cuvintele care au definit căutarea (_search query_)
+- [ ] explică de unde au venit rezultatele căutării (de pe ce pagină, din ce categorie de produse, etc)
+- [ ] explică utilizatorului ce căutare a făcut și cum o poate reface (utilizând filtre, reformulând căutarea, folosind [operatori booleeni](http://libguides.mit.edu/c.php?g=175963&p=1158594), afișând numărul de rezultate întoarse de căutare etc)
+- [ ] integrează căutarea cu navigarea în website (de exemplu, prin afișarea categoriilor de produse sau a altui tip de ierarhie pe pagina cu rezultatele căutării)
+- [ ] marchează căutările care nu au generat niciun rezultat prin metodele standard (de exemplu, folosirea
 [paginii 404](https://en.wikipedia.org/wiki/HTTP_404) pentru paginile căutate care nu există pe website). [4]
 
 
@@ -197,11 +197,6 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * definește un utilizator specific pentru produsul care trebuie proiectat
  * lucrează în echipe de două persoane [11]
 
-* _Usability_: gradul în care un software poate fi folosit de utilizatori specifici, raportat la:
- * eficiența, flexibilitatea si robustețea software-ului
- * abilitatea utilizatorilor de a învăța acel software
- * satisfacția utilizatorilor după folosirea acelui software [11, 12]
-
 * _The 5 Dimensions_:
  * 1D: cuvintele folosite în interfața digitală trebuie să fie simplu de înțeles și să comunice ușor informația către utilizatori
  * 2D: reprezentările vizuale (imagini și grafice) trebuie folosite cu moderație
@@ -209,28 +204,35 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
  * 4D: timpul este durata în care utilizatorul interacționează cu primele 3 dimensiuni; include modurile de a măsura progresul într-o activitate (sunet, animație etc)
  * 5D: comportamentul se referă la emoțiile și reacțiile utilizatorului în momentul interacțiunii sale cu sistemul [11]
 
-* _Cognitive Psychology_: studiază felul în care mintea utilizatorului acționează:
- * modele mentale ([mental models](https://en.wikipedia.org/wiki/Mental_model))
- * metafore de interfață (folosirea acțiunilor cunoscute cu scopul de a descoperi noi acțiuni posibile în acel software); de exemplu, iconița _Trash_ (_Recycle bin_) face analogie cu un coș de gunoi real
- * scopurile sau acțiunile posibile ale unui software ([_affordances_](https://en.wikipedia.org/wiki/Affordance)) [11]
-
-* _Personas_: crearea unui reprezentant fictiv pentru fiecare tip de public-țintă; vezi capitolul 2
-
 * _Affective interaction design_: anumite aspecte ale design-ului pot influența răspunsul emoțional al utilizatorilor (motivația de a folosi un software, curba de învățare a acestuia, feedback-ul venit din interfață, eficiența percepută a acelui software, gradul perceput de usability):
  * iconițe dinamice
  * animații
  * sunete
  * fonturi
  * paleta de culori
- * așezarea în pagină a elementelor [13]
+ * așezarea în pagină a elementelor [12]
 
-**Ce trebuie să livreze un _Interaction designer_?**
-* strategia de design: _pentru cine se proiectează acel software_ și _care sunt scopurile utilizatorilor_ (un UX Researcher poate livra de asemenea aceste informații)
-* wireframes pentru principalele interacțiuni posibile în acel software
-* prototipuri pentru acel software:
- * construite pe hârtie
- * construite în unelte specializate (Axure, Invision, Balsamiq etc)
- * în format web (HTML, CSS) [11]
+**Cum proiectezi pentru interacțiune? (checklist)** 
+- [ ] definește modul în care utilizatorii pot interacționa cu interfața:
+  * Ce poate face utilizatorul cu mouse-ul, cu degetul, cu [stylus-ul](https://en.wikipedia.org/wiki/Stylus_(computing)), pentru a interacționa direct cu interfața?
+  * Ce comenzi poate da utilizatorul (care să nu fie în mod direct parte din produsul software) pentru a interacționa cu acel produs? 
+- [ ] oferă utilizatorilor indicii despre modul de comportare a interfeței înainte ca aceștia să ia acțiune:
+  * Ce anume din aspectul interfeței (culoare, formă, dimensiune etc) oferă utilizatorului indicii despre cum ar putea funcționa interfața?
+  * Ce informație oferi utilizatorului pentru a-l informa ce se va întâmpla în interfață înainte ca acesta să efectueze o acțiune?
+- [ ] anticipează și diminuează erorile:
+  * Există constrângeri puse în interfață astfel încât erorile să fie prevenite?
+  * Mesajele de eroare oferă vreun mod prin care utilizatorul să corecteze eroarea apărută sau măcar explică de ce a apărut acea eroare? 
+- [ ] ia în considerare sistemul de feedback și timpul de răspuns:
+  * Ce feedback primește utilizatorul odată ce a efectuat o acțiune?
+  * Cât timp trece de când o acțiune a utilizatorului a avut loc până când interfața oferă un răspuns?
+- [ ] gândește-te strategic la fiecare element din interfață:
+  * Sunt elementele din interfață de o mărime rezonabilă pentru interacțiunea cu ele?
+  * Sunt colțurile și marginile folosite strategic pentru a localiza elemente interactive precum meniurile?
+  * Sunt folosite standardele actuale?
+- [ ] simplifică interfața pentru a fi mai rapidă de învățat:
+  * Este informația din pagină împărțită în 7 (plus/minus 2) itemi la orice moment dat? (citește despre _[progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure)_)
+  * Este partea care ține de utilizator simplificată la maxim?
+  * Sunt folosite în interfață formate cunoscute? [13]
 
 
 ## Bibliografie
@@ -246,5 +248,5 @@ _Interaction Design-ul_ (IxD) este acea disciplină care definește structura ș
 9. [Web analytics, Wikipedia](https://en.wikipedia.org/wiki/Web_analytics)
 10. [What is interaction design?, The Interaction Design Association](http://ixda.org/ixda-global/about-history/)
 11. [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
-12. [Usability, Wikipedia](https://en.wikipedia.org/wiki/Usability)
-13. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
+12. [Interaction design, Wikipedia](https://en.wikipedia.org/wiki/Interaction_design)
+13. [Interaction Design Basics](https://www.usability.gov/what-and-why/interaction-design.html)
