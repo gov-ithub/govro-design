@@ -100,7 +100,7 @@ Arhitectura Informației are 5 mari componente:
 * navigări suplimentare: _site map-uri_, indecși de website, tutoriale pentru o activitate anume de pe website etc
 * navigare socială: "Cele mai populare articole", "Ultimele articole accesate" etc. [4]
 
-Navigarea globală poate fi:
+**Navigarea globală poate fi:**
 
 * _broad and shallow_ (meniul global conține multe secțiuni, dar fiecare secțiune are un submeniu mic, de exemplu website-urile de știri de genul [nytimes.com](http://www.nytimes.com/))
 * _narrow and deep_ (meniul global conține puține secțiuni, dar fiecare secțiune are un submeniu vast, de exemplu website-urile de comerț online de genul [amazon.com](https://www.amazon.com/)).
@@ -152,31 +152,31 @@ Aceste componente de IA sunt folosite de obicei când proiectăm baza de date a 
 
 ### 1.6 Cum creezi o bună arhitectură a informației (checklist)
 
-<input type="checkbox"> pasul 1: Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
+<input type="checkbox"> Vorbește cu beneficiarii indirecți a acelui website (aplicație), pentru a defini:
 
  * tipurile de public-țintă ([personas](https://www.youtube.com/watch?v=khLWLtxmMGM))
  * scopurile website-ului
  * funcțiile necesare website-ului
 
-<input type="checkbox"> pasul 2: Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
+<input type="checkbox"> Identifică scopurile și așteptările utilizatorilor finali ai website-ului (prin user experience research):
 
  * organizează interviuri cu 7-10 utilizatori reprezentativi ai fiecărui tip de public-țintă (personas)
  * trimite chestionare unui număr cât mai mare de utilizatori finali (necesită zeci sau sute de participanți).
 
-<input type="checkbox"> pasul 3: Definește ariile de conținut ale website-ului:
+<input type="checkbox"> Definește ariile de conținut ale website-ului:
 
  * analizează conținutul existent deja pe website (dacă acesta există) și decide ce tipuri de conținut vor fi păstrate/șterse/actualizate
  * creează o listă cu toate ariile de conținut pe care dorești ca utilizatorii website-ului să le găsească.
 
-<input type="checkbox"> pasul 4: Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
+<input type="checkbox"> Organizează ariile de conținut folosind exerciții de [card sorting](https://en.wikipedia.org/wiki/Card_sorting) pe utilizatori finali.
 
-<input type="checkbox"> pasul 5: Creează site map-ul website-ului și testează-l pe utilizatori finali.
+<input type="checkbox"> Creează site map-ul website-ului și testează-l pe utilizatori finali.
 
-<input type="checkbox"> pasul 6: Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
+<input type="checkbox"> Desenează structura navigațională a website-ului, pornind de la site map. Ține cont de navigarea "broad and shallow" versus navigarea "narrow and deep" (explicată la punctul 1.3).
 
-<input type="checkbox"> pasul 7: Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
+<input type="checkbox"> Etichetează ariile de conținut folosind etichete (_labels_) scurte (de maxim 3 cuvinte) și la obiect.
 
-<input type="checkbox"> pasul 8: Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
+<input type="checkbox"> Creează wireframes pentru a reprezenta grafic organizarea conținutului fiecărei pagini din website.
 [5]
 
 
