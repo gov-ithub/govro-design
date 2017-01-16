@@ -1,9 +1,12 @@
+[![Build Status](https://travis-ci.org/gov-ithub/govro-design.svg?branch=master)](https://travis-ci.org/gov-ithub/govro-design)
+
 # design.gov.ro
 Ghidul de proiectare a serviciilor gov.ro conține:
 - [principii generale](https://gov-ithub.github.io/govro-design/)
-- [principii de UX](https://gov-ithub.github.io/govro-design/principii/ux/)
-- [principii de UI](https://gov-ithub.github.io/govro-design/principii/ui/)
+- [principii de UX](https://gov-ithub.github.io/govro-design/ux/)
+- [principii de UI](https://gov-ithub.github.io/govro-design/ui/)
 - [componente de UI](https://gov-ithub.github.io/govro-design/componente/)
+- [instrucțiuni de utilizare](https://gov-ithub.github.io/govro-design/utilizare/)
 
 ## Contribuie
 
@@ -19,11 +22,35 @@ Pentru a contribui la acest proiect [deschide un fork](https://guides.github.com
 
 Ghidul poate fi extins ca structură și conținut, pentru formatarea conținutului se folosește [markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Instalare
+
+Ghidul este construit folosind generatorul de pagini statice [Jekyll](http://jekyllrb.com/).
+
+### Cerințe
+- Linux, Unix, or macOS
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
+- [RubyGems](https://rubygems.org/pages/download)
+- [Jekyll](http://jekyllrb.com/)
+
+### Inițializare
+```
+gem install jekyll
+```
+
+```
+git clone https://github.com/gov-ithub/govro-design.git
+cd govro-design
+bundle exec jekyll serve
+```
+
+Acum accesează http://localhost:4000
+
 ## Licență
 Acest ghid de proiectare și librăria aferentă acestuia sunt dezvoltate sub licență [Apache 2.0](https://github.com/gov-ithub/govro-design/blob/master/LICENSE).
 
 ## Cum poti intra în contact cu echipa?
-Prin email catre alexandru.jurubita@ithub.gov.ro sau mai eficient, pe canalul de Slack [#ui_design](https://govithub.slack.com/messages/ui_design/details/). Pentru acces la canalul de Slack [cere o invitatie](http://govitslack.herokuapp.com/).
+Prin email catre alexandru.jurubita@ithub.gov.ro sau mai eficient, pe canalul de Slack [#ui_design](https://govithub.slack.com/messages/ui_design/details/).
+Pentru acces la canalul de Slack [cere o invitatie](http://govitslack.herokuapp.com/).
 
 ----------
 
