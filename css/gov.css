@@ -1,3 +1,6 @@
+/* TYPOGRAPHY */
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700|Work+Sans:400,500,600&subset=latin-ext');
+
 /*
 COLORS
 culori principale:
@@ -13,7 +16,18 @@ dark grey: #868e96;
 grey: #ced4da;
 light grey: #f1f2f6;
 */
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i|Work+Sans:400,500,700&subset=latin-ext');
+/* color scheme */
+.brand-primary{ background-color: #0001ee; }
+.brand-success{ background-color: #37BC9B; }
+.brand-info{ background-color: #031169; }
+.brand-warning{ background-color: #ffc10a; }
+.brand-danger{ background-color: #f12948; }
+
+.gray-darker{ background-color: #323233; }
+.gray-dark{ background-color: #868e96; }
+.gray{ background-color: #ced4da; }
+.gray-light{ background-color: #f1f2f6; }
+
 /* general selectors */
 body{
 	font-family: 'Work Sans', sans-serif;
@@ -32,6 +46,7 @@ a:visited{
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Serif', serif;
 	color: #212529;
+	font-weight: normal;
 }
 h1{
 	font-size: 46px;
@@ -82,6 +97,16 @@ blockquote .small:before, blockquote footer:before, blockquote small:before{
 }
 
 /* additional general selectors */
+.post h2{
+	border-bottom: 1px solid #d8d8d8;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+.example h2{
+	border: none;
+	padding-bottom: 0;
+	margin-bottom: 7.5px;
+}
 .lead{
 	font-size: 18px;
 	line-height: 24px;
@@ -100,9 +125,27 @@ blockquote .small:before, blockquote footer:before, blockquote small:before{
 }
 
 /* header selectors */
+.site-title{
+	font-family: 'Noto Serif', serif;
+	letter-spacing: normal;
+}
+.site-header{
+	background: #031169;
+}
+.site-header a{
+	color: #fff;
+}
+.site-header a:hover{
+	color: #37BC9B;
+	text-decoration: none;
+}
 .navbar-brand{
 	height: 58px;
 	padding: 20px 15px;
+}
+.site-nav{
+	text-transform: uppercase;
+	font-weight: 500;
 }
 .navbar-nav>li>a{
 	padding-top: 20px;
@@ -198,6 +241,9 @@ input{
 	padding: 10px 20px;
 }
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover,
+.nav a:visited{
+	color: #004df3;
+}
 .nav>li>a:focus, .nav>li>a:hover{
 	color: #fff;
 	background: #37BC9B;
@@ -213,4 +259,19 @@ input{
 }
 .nav-side li.active a:hover{
 	color: #fff;
+}
+
+.color-swatches {
+	margin: 0 -5px;
+	display: block;
+	width: 100%;
+	height: 100px;
+	margin-bottom: 15px;
+}
+.color-swatch {
+	float: left;
+  width: 100px;
+  height: 100px;
+	margin: 0 5px;
+  border-radius: 3px;
 }

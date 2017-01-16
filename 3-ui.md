@@ -4,16 +4,16 @@ title: Principii de UI
 permalink: /ui/
 ---
 
-## Ce este _UI_
-"UI" ("User Interface") este același lucru cu termenul "visual design", _în contextul dezvoltării web a unui proiect_. Etapa de "UI" din cadrul unui proiect web se referă la transformarea wireframe-urilor sau prototipului (construite în etapa anterioară de "UX") într-o interfață care să fie atractivă din punct de vedere vizual pentru utilizatori (fonturi, culori, forme, imagini etc). Această etapă va crea înfățișarea finală a paginilor și a aplicației în sine.
+## Ce este “User Interface”?
+_**User Interface (UI)**_ este același lucru cu _visual design_, în contextul dezvoltării web a unui proiect. Etapa de "UI" din cadrul unui proiect web se referă la transformarea wireframe-urilor sau prototipului (construite în etapa anterioară de "UX") într-o interfață care să fie atractivă din punct de vedere vizual pentru utilizatori (fonturi, culori, forme, imagini etc). Această etapă va crea înfățișarea finală a paginilor și a aplicației în sine.
 
 **Multă lume confundă UI-ul cu UX-ul**. "UX" (User Experience) este etapa care proiectează o interfață "usable", este "sistemul osos" al oricărui proiect web. "UI" este etapa care îmbracă "sistemul osos" cu "mușchi și piele", astfel încât acesta să arate atractiv și convingător.
 
-**A trece la partea de "culoare" (UI) fără a avea definită în prealabil partea de "structură" (UX)** înseamnă să încalci una din regulile de bază ale _User Experience Design-ului_, care spune că [_Forma urmează funcției_](https://en.wikipedia.org/wiki/Form_follows_function).
+**A trece la partea de "culoare" (UI) fără a avea definită în prealabil partea de "structură" (UX)** înseamnă să încalci una din regulile de bază ale _User Experience Design-ului_, care spune că [Forma urmează funcției](https://en.wikipedia.org/wiki/Form_follows_function).
 
-**Visual designer-ul nu este un simplu utilizator de Photoshop** (sau Sketch, Illustrator etc). El este capabil atât _să creeze interfețe frumoase_, cât și _să explice concepte de design și să argumenteze deciziile din spatele muncii sale_. [1]
+**Visual designer-ul nu este un simplu utilizator de Photoshop** (sau Sketch, Illustrator etc). El este capabil atât să creeze interfețe frumoase, cât și să explice concepte de design și să argumenteze deciziile din spatele muncii sale. <sup>[[1]](#bibliografie)</sup>
 
-**Visual designer-ul este mai mult decât un _graphic designer_** (care se ocupă de tipografie, culoare, imagini, utilizarea spațiului, iconițe), el este un om capabil să **asigure o experiență vizuală consecventă pe toate tipurile de ecrane** necesare unei aplicații (desktop, tablete, _smartphones_). [1]
+**Visual designer-ul este mai mult decât un _graphic designer_** (care se ocupă de tipografie, culoare, imagini, utilizarea spațiului, iconițe), el este un om capabil să **asigure o experiență vizuală consecventă pe toate tipurile de ecrane** necesare unei aplicații (desktop, tablete, smartphones). <sup>[[1]](#bibliografie)</sup>
 
 Această pagină descrie principiile de bază ale _visual design-ului_.
 
@@ -21,7 +21,7 @@ Această pagină descrie principiile de bază ale _visual design-ului_.
 Folosește spațiul liber pentru a crea o ierarhie vizuală în pagină.
 
 ### Lățime pagină
-Lațimea maximă implicită a unei pagini este de 1020px, dar o poți extinde în cazul în care conținutul cere acest lucru.
+Lațimea maximă implicită a unei pagini este de 1170px, dar o poți extinde în cazul în care conținutul cere acest lucru.
 
 Folosește o grilă pentru a așeza conținutul. Pentru a preveni apariția unor linii lungi de text conținutul trebuie să stea într-o coloană care este de maximum două treimi din lățimea paginii.
 
@@ -43,11 +43,12 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 ## 2. Tipografie
 
 ### Font
-- folosește fontul **Trebuchet MS** cu caractere normale, cursive și aldine pentru domeniile .gov.ro
-- pentru a acoperi cât mai multe dispozitive folosește stiva de fonturi: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif
+- folosește fontul [Work Sans](https://fonts.google.com/specimen/Work+Sans) cu caractere normale, cursive și aldine
+- pentru a acoperi cât mai multe dispozitive folosește stiva de fonturi: "Work Sans", sans-serif
+- pentru a 
 
 ### Titluri și subtitluri
-- folosește caractere aldine pentru titluri
+- folosește fontul [Noto Serif])(https://fonts.google.com/specimen/Noto+Serif) cu caractere normale pentru titluri
 - folosește titluri și subtitluri în mod consecvent pentru a crea o ierarhie clară în pagină
 
 ### Corp de text
@@ -59,7 +60,6 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 ### Legături
 - legăturile din corpul de text trebuie să fie subliniate
 - legăturile care nu fac parte dintr-un text trebuie să nu fie urmate de punct
-- culorile legăturilor se regăsesc în [paleta de culori](#paleta-de-culori)
 
 ### Liste
 - elementele unei liste încep cu literă mică
@@ -72,25 +72,30 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 ### Contrast de culoare
 Raportul de contrast de culoare pentru text și elemente interactive trebuie să fie de cel puțin 4,5:1 așa cum este [recomandat de W3C](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html){:target="_blank"}.
 
-### Paletă de culori
+### Paleta de culori
 
 #### Culori principale
+<div class="color-swatches">
+	<div class="color-swatch brand-primary"></div>
+	<div class="color-swatch brand-success"></div>
+	<div class="color-swatch brand-info"></div>
+	<div class="color-swatch brand-warning"></div>
+	<div class="color-swatch brand-danger"></div>
+</div>
 
-- Pantone 480C; RGB(0,73,144); CMYK(100,72,0,18)
-- Negru 80%; RGB(88,89,91); CMYK(0,0,0,80)
-- Negru 100%; RGB(0,0,0); CMYK(0,0,0,100)
+#### Culori secundare
+Culorile secundare sunt derivate de nunață ale culorilor principale
 
-#### Culorile secundare
-
-- Pantone 300C; RGB(0,121,193); CMYK(100,44,0,0)
-- Negru 20%; RGB(209,211,212); CMYK(0,0,0,20)
-- Negru 100%; RGB(255,255,255); CMYK(0,0,0,0)
-
-#### Culori componente
-[text, legături, fundal, butoane, focus, nuanțe de gri]
+#### Nuanțe de gri
+<div class="color-swatches">
+	<div class="color-swatch gray-darker"></div>
+	<div class="color-swatch gray-dark"></div>
+	<div class="color-swatch gray"></div>
+	<div class="color-swatch gray-light"></div>
+</div>
 
 ## 4. Pictograme și imagini
-Evita decorarea inutilă - folosește doar pictograme și imagini dacă este o nevoie reală pentru utilizator.
+Evită decorarea inutilă - folosește doar pictograme și imagini dacă este o nevoie reală pentru utilizare.
 
 ### Pictograme
 - dacă sunt necesare pictograme asigură-te că sunt clare, simple și însoțite de un text relevant
@@ -106,8 +111,8 @@ Folosește tabele pentru a face conținutul mai ușor de parcurs.
 - atunci când se compară șiruri de numere, aliniază numerele la dreapta în celulele de tabel
 
 ### Vizualizare date
-- datele vizualizate sunt recomandate ca alternativă la utilizarea imaginilor
-- asigură-te că valoarea numerică apare înaintea descrierii pentru a fi ușor de citit
+- reprezentarea vizuală a datelor este recomandată ca alternativă la utilizarea imaginilor
+- asigură-te că, într-o reprezentare vizuală, valoarea numerică apare înaintea descrierii pentru a fi ușor de citit
 
 ## 6. Butoane
 - folosește butoanele pentru navigarea în site și afișează un singur buton principal pe pagină.
