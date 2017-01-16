@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/gov-ithub/govro-design.svg?branch=master)](https://travis-ci.org/gov-ithub/govro-design)
-
 # design.gov.ro
 Ghidul de proiectare a serviciilor gov.ro conține:
 - [principii generale](https://gov-ithub.github.io/govro-design/)
@@ -50,6 +48,7 @@ Acest ghid de proiectare și librăria aferentă acestuia sunt dezvoltate sub li
 
 ## Cum poti intra în contact cu echipa?
 Prin email catre alexandru.jurubita@ithub.gov.ro sau mai eficient, pe canalul de Slack [#ui_design](https://govithub.slack.com/messages/ui_design/details/).
+
 Pentru acces la canalul de Slack [cere o invitatie](http://govitslack.herokuapp.com/).
 
 ----------
