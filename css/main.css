@@ -457,7 +457,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 	.example{
     background-color: #fff;
     border: 1px solid #eee;
-		margin-bottom: -1px;
+		margin-bottom: -2px;
 		border-radius: 3px;
 		position: relative;
     padding:45px 15px 15px; }

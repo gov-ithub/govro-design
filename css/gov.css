@@ -139,9 +139,41 @@ blockquote .small:before, blockquote footer:before, blockquote small:before{
 	color: #37BC9B;
 	text-decoration: none;
 }
+.navbar-nav{
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.navbar-nav>li>a{
+	padding-top: 31px !important;
+	padding-bottom: 31px !important;
+}
+.navbar-nav>li>a:hover{
+	color: #37BC9B !important;
+}
+.navbar-nav>li>.dropdown-menu{
+	margin-top: 1px !important;
+}
+.dropdown-menu>li>a{
+	font-weight: 500 !important;
+}
+.navbar-inverse{
+	background: #031169;
+}
+.navbar-inverse .navbar-brand{
+	color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #fff;
+}
 .navbar-brand{
-	height: 58px;
-	padding: 20px 15px;
+	font-family: 'Noto Serif', serif;
+	height: 80px;
+	padding: 18px 15px;
+	margin-right: 10px;
+}
+.navbar-brand>img{
+	height: 45px;
+	display: inline;
 }
 .site-nav{
 	text-transform: uppercase;
@@ -152,6 +184,10 @@ blockquote .small:before, blockquote footer:before, blockquote small:before{
 	padding-bottom: 20px;
 	line-height: 18px;
 }
+.navbar-toggle{
+	margin-top: 23px;
+	margin-bottom: 23px;
+}
 
 /* form selectors */
 .form-control{
@@ -159,6 +195,9 @@ blockquote .small:before, blockquote footer:before, blockquote small:before{
 	/*border-color: #323233;*/
 	color: #868e96;
 	height: 42px;
+}
+.form-horizontal .control-label{
+	padding-top: 10px;
 }
 input{
 
@@ -260,7 +299,29 @@ input{
 .nav-side li.active a:hover{
 	color: #fff;
 }
-
+.footer{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 20px;
+}
+.footer-default{
+	background: #f8f8f8;
+	border-top: 1px solid #e7e7e7;
+	color: #5e5e5e;
+}
+.footer-inverse{
+	background: #031169;
+	color: #7a82b0;
+}
+.footer-inverse a{
+	color: #fff;
+}
+.footer-inverse a:hover{
+	color: #37BC9B;
+}
+.footer .list-unstyled{
+	margin: 0;
+}
 .color-swatches {
 	margin: 0 -5px;
 	display: block;

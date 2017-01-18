@@ -80,6 +80,7 @@ Grila este una standard prin care adaugi rânduri cu coloane, fiecare coloană a
 ```
 
 ### Liste
+
 #### Liste neordonate
 <div class="example">
 <ul>
@@ -395,9 +396,8 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 
 ### Navigația principală
 <div class="example">
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-inverse">
   <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -405,10 +405,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
     </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
@@ -423,20 +420,42 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
           </ul>
         </li>
       </ul>
-      <form class="navbar-form navbar-left pull-right">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Caută">
-        </div>
-        <button type="submit" class="btn btn-default">Trimite</button>
-      </form>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Acțiune</a></li>
+            <li><a href="#">Altă acțiune</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Acțiune separată</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
 </div>
 ``` html
 <nav class="navbar navbar-default">
   <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -444,10 +463,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
     </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
@@ -462,12 +478,6 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
           </ul>
         </li>
       </ul>
-      <form class="navbar-form navbar-left pull-right">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Caută">
-        </div>
-        <button type="submit" class="btn btn-default">Trimite</button>
-      </form>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
@@ -556,29 +566,215 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
 ```
 
 ## Șabloane
-<div class="example">
-[în curs de actualizare]
-</div>
-``` html
-```
 
 ### Șabloane formular
 <div class="example">
-[în curs de actualizare]
+<form class="form-horizontal">
+  <div class="form-group">
+    <label for="nume" class="col-sm-2 control-label">Nume</label>
+    <div class="col-sm-6">
+      <input type="text" class="form-control" id="nume" placeholder="Ion Popescu">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="email" class="col-sm-2 control-label">Email</label>
+    <div class="col-sm-6">
+      <input type="email" class="form-control" id="email" placeholder="ion.popescu@gmail.com">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-6">
+      <button type="submit" class="btn btn-primary">Salvează</button>
+			<button type="submit" class="btn btn-default">Renunță</button>
+    </div>
+  </div>
+</form>
 </div>
 ``` html
+<form class="form-horizontal">
+  <div class="form-group">
+    <label for="nume" class="col-sm-2 control-label">Nume</label>
+    <div class="col-sm-6">
+      <input type="text" class="form-control" id="nume" placeholder="Ion Popescu">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="email" class="col-sm-2 control-label">Email</label>
+    <div class="col-sm-6">
+      <input type="email" class="form-control" id="email" placeholder="ion.popescu@gmail.com">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-6">
+      <button type="submit" class="btn btn-primary">Salvează</button>
+      <button type="submit" class="btn btn-default">Renunță</button>
+    </div>
+  </div>
+</form>
 ```
 
 ### Șabloane antet
 <div class="example">
-[în curs de actualizare]
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-header-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+			<a class="navbar-brand" href="#">
+				<img src="{{ site.github.url }}/img/gov-small.png" alt="Guvernul României"> Guvernul României
+			</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-header-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Acțiune</a></li>
+            <li><a href="#">Altă acțiune</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Acțiune separată</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-header-navbar-collapse-2" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+			<a class="navbar-brand" href="#">
+				<img src="{{ site.github.url }}/img/gov-small.png" alt="Guvernul României"> Guvernul României
+			</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-header-navbar-collapse-2">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Acțiune</a></li>
+            <li><a href="#">Altă acțiune</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Acțiune separată</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
 </div>
 ``` html
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-header-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">
+        <img src="{{ site.github.url }}/img/gov-small.png" alt="Guvernul României"> Guvernul României
+      </a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-header-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Acțiune</a></li>
+            <li><a href="#">Altă acțiune</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Acțiune separată</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 ```
 
 ### Șabloane subsol
 <div class="example">
-[în curs de actualizare]
+<footer class="footer footer-inverse">
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="col-md-3">
+				<p><b>Titlu sectiune</b></p>
+				<ul class="list-unstyled">
+					<li><a href="#">Primul link</a></li>
+					<li><a href="#">Al doilea link</a></li>
+					<li><a href="#">Al treilea link</a></li>
+				</ul>
+			</div>
+			<div class="col-md-6">
+				<p>Copyright &copy; Guvernul României 2017</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<footer class="footer footer-default">
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="col-md-3">
+				<p><b>Titlu sectiune</b></p>
+				<ul class="list-unstyled">
+					<li><a href="#">Primul link</a></li>
+					<li><a href="#">Al doilea link</a></li>
+					<li><a href="#">Al treilea link</a></li>
+				</ul>
+			</div>
+			<div class="col-md-6">
+				<p>Copyright &copy; Guvernul României 2017</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
 </div>
 ``` html
+<footer class="footer footer-inverse">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="col-md-3">
+        <p><b>Titlu sectiune</b></p>
+        <ul class="list-unstyled">
+          <li><a href="#">Primul link</a></li>
+          <li><a href="#">Al doilea link</a></li>
+          <li><a href="#">Al treilea link</a></li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <p>Copyright &copy; Guvernul României 2017</p>
+      </div>
+    </div>
+  </div>
+</footer>
 ```
