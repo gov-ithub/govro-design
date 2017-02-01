@@ -178,7 +178,7 @@ Dacă serviciul este disponibil la www.gov.ro sau la o adresa de forma serviciu.
 În cazul în care serviciul nu este disponibil la unul dintre aceste domenii, atunci nu trebuie să folosească antetul și subsolul gov.ro.
 
 ### Implementare antet și subsol gov.ro
-Codul și resursele pentru a implementa antetul și subsol gov.ro sunt disponibile în pagina de [componente](/componente).
+Codul și resursele pentru a implementa antetul și subsol gov.ro sunt disponibile în pagina de [componente](/govro-design/componente/componente).
 
 
 ## Bibliografie
