@@ -48,7 +48,7 @@ Optimizează apoi pentru diferite dimensiuni de ecran fără a face presupuneri 
 - pentru a 
 
 ### Titluri și subtitluri
-- folosește fontul [Noto Serif])(https://fonts.google.com/specimen/Noto+Serif) cu caractere normale pentru titluri
+- folosește fontul [Noto Serif](https://fonts.google.com/specimen/Noto+Serif) cu caractere normale pentru titluri
 - folosește titluri și subtitluri în mod consecvent pentru a crea o ierarhie clară în pagină
 
 ### Corp de text
