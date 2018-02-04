@@ -45,35 +45,35 @@ nav_principii:
 
 nav_ux:
   - page: Arhitectura Informației
-    permalink: '#arhitectura-informaiei-ia'
+    permalink: '#1-arhitectura-informației-ia'
   - page: User Experience Research
-    permalink: '#user-experience-research-ux-research'
+    permalink: '#2-user-experience-research-ux-research'
   - page: Interaction Design (IxD)
-    permalink: '#interaction-design-ixd'
+    permalink: '#3-interaction-design-ixd'
 
 nav_ui:
   - page: Așezare în pagină
-    permalink: '#aezare-n-pagin'
+    permalink: '#1-așezare-în-pagină'
   - page: Tipografie
-    permalink: '#tipografie'
+    permalink: '#2-tipografie'
   - page: Culori
-    permalink: '#culori'
+    permalink: '#3-culori'
   - page: Pictograme și imagini
-    permalink: '#pictograme-i-imagini'
+    permalink: '#4-pictograme-și-imagini'
   - page: Date
-    permalink: '#date'
+    permalink: '#5-date'
   - page: Butoane
-    permalink: '#butoane'
+    permalink: '#6-butoane'
   - page: Formulare
-    permalink: '#formulare'
+    permalink: '#7-formulare'
   - page: Erori și validare
-    permalink: '#erori-i-validare'
+    permalink: '#8-erori-și-validare'
   - page: Antet și subsol
-    permalink: '#antet-i-subsol'
+    permalink: '#9-antet-și-subsol'
 
 nav_componente:
 - page: Așezare în pagină
-  permalink: '#aezare-n-pagin'
+  permalink: '#așezare-în-pagină'
 - page: Tipografie
   permalink: '#tipografie'
 - page: Butoane
@@ -81,15 +81,15 @@ nav_componente:
 - page: Formulare
   permalink: '#formulare'
 - page: Navigație
-  permalink: '#navigaie'
+  permalink: '#navigație'
 - page: Alerte și notificări
-  permalink: '#alerte-i-notificri'
+  permalink: '#alerte-și-notificări'
 - page: Starea implicită
-  permalink: '#starea-implicit'
+  permalink: '#starea-implicită'
 - page: Utilitare
   permalink: '#utilitare'
 - page: Șabloane
-  permalink: '#abloane'
+  permalink: '#șabloane'
 
 nav_utilizare:
 - page: Pentru dezvoltatori
