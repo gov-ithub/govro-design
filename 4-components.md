@@ -482,6 +482,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
   </div><!-- /.container-fluid -->
 </nav>
 ```
+
 ### Navigația secundară
 <div class="example">
 <ul class="nav nav-side">
@@ -626,7 +627,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
         <span class="icon-bar"></span>
       </button>
 			<a class="navbar-brand" href="#">
-				<img src="{{ site.github.url }}/img/gov-small.png" alt="Guvernul României"> Guvernul României
+				<img src="{{ site.github.url }}/img/gov-small-inverse.png" alt="Guvernul României"> Guvernul României
 			</a>
     </div>
 
@@ -660,7 +661,7 @@ Butoanele periculoase aduc aminte utilizatorului că acțiunea respectivă are u
         <span class="icon-bar"></span>
       </button>
 			<a class="navbar-brand" href="#">
-				<img src="{{ site.github.url }}/img/gov-small.png" alt="Guvernul României"> Guvernul României
+				<img src="{{ site.github.url }}/img/gov-small-default.png" alt="Guvernul României"> Guvernul României
 			</a>
     </div>
 
