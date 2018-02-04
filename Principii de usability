@@ -1,0 +1,28 @@
+# Principii de usability
+Asigurate ca :
+-	Păstreaza utilizatorii informați cu privire la ceea ce se întâmplă in pagina/aplicatie
+-	Evita termeini tehnici in comunicare si vorbeste pe intelesul userilor
+-	Ofera posibilitate userului sa se intoarca in pasul anterior sau sa anuleze actiunea
+-	Elimina campurile ne-esentiale din formulare.
+-	Da oamenilor un motiv pentru a completa formularul
+-	Aliniaza etichetele label-urilor din formulare stanga sus pentru a fi usor citite și completare
+-	Dezactiveaza funcții care nu sunt relevante pentru utilizator (ex: CAPTCHA)
+-	Adauga controale corespunzătoare pentru a evita constrângerile (ex butoane radio, dropdowns in locul input text)
+-	Furnizeaza de instrucțiuni descriptive, clare
+-	Ofera vizibilitatea pasului curent
+-	Userul trebuie sa detina controlul in aplicatie
+-	Consistenta si standarde inalte
+-	Furnizează mesaje de avertizare clare
+-	Detectarea erorilor
+o	Pastreaza consistenta in mesajele de eroare (in aplicatie sau intre aplicatiile similare) 
+o	Anticipeaza posibilele erori cu  feedback catre utilizatorii să verifice dacă:
+-	Au făcut ce au intenționat să facă
+-	Ceea ce au intenționat să facă a fost corect
+o	Furnizarea de feedback-ul prin schimbarea stării vizuale a unui obiect sau element este mai vizibil decât un mesaj scris.
+
+https://www.ventureharbour.com/form-design-best-practices/ 
+http://babich.biz/mobile-ux-design-user-errors/ 
+https://www.smashingmagazine.com/2009/03/breadcrumbs-in-web-design-examples-and-best-practices/
+https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b#.ey90rluh9
+http://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/?utm_source=facebook.com&utm_medium=referral&utm_content=How%20to%20create%20the%20right%20emotions%20with%20color%20in%20web%20design&utm_campaign=share%2Bbutton 
+
