@@ -296,7 +296,7 @@ input{
 .nav-side li.active a{
 	color: #37BC9B;
 }
-.nav-side li.active a:hover{
+.nav-side li.active a:hover, .nav-side li.active a:focus{
 	color: #fff;
 }
 .footer{
